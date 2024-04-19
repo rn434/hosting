@@ -3,40 +3,45 @@ BEGIN:VEVENT
 SUMMARY:Barcelona Open Banc Sabadell
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240420
-DESCRIPTION:(10:30) - (QF) - T. Etcheverry vs C. Norrie\n(12:30) - (QF) - 
- C. Ruud vs M. Arnaldi\n(14:00) - (QF) - F. Diaz Acosta vs S. Tsitsipas\n(1
- 6:00) - (QF) - A. Fils vs D. Lajovic\n(09:30) - (QF) - G. Corrales vs M. S
- chulz\n(12:00) - (QF) - T. Machac/Z. Zhang vs M. Granollers/H. Zeballos\n(
- 13:30) - (QF) - M. Arevalo/M. Pavic vs I. Dodig/N. Skupski\n(09:30) - (QF)
-  - I. Barroeta vs I. Hernandez\n(11:30) - (QF) - A. Garcia vs M. Quesada\n
- (13:30) - (QF) - M. Pellegrin vs T. Escarda\n
+DESCRIPTION:10:30 - (QF)T. Etcheverry vs C. Norrie on Pista Rafa Nadal\n12
+ :30 - (QF)C. Ruud vs M. Arnaldi on Pista Rafa Nadal\n14:00 - (QF)F. Diaz A
+ costa vs S. Tsitsipas on Not Before 4:00 pm\n16:00 - (QF)A. Fils vs D. Laj
+ ovic on Not Before 4:00 pm\n09:30 - (QF)G. Corrales vs M. Schulz on Pista 
+ Andres Gimeno\n12:00 - (QF)T. Machac/Z. Zhang vs M. Granollers/H. Zeballos
+  on 2:00 pm\n13:30 - (QF)M. Arevalo/M. Pavic vs I. Dodig/N. Skupski on 2:0
+ 0 pm\n09:30 - (QF)I. Barroeta vs I. Hernandez on Pista 2\n11:30 - (QF)A. G
+ arcia vs M. Quesada on Pista 2\n13:30 - (QF)M. Pellegrin vs T. Escarda on 
+ Pista 2\n
 LOCATION:Barcelona\, Spain
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BMW Open
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240420
-DESCRIPTION:(09:00) - (QF) - T. Fritz vs J. Draper\n(11:00) - (QF) - C. Ga
- rin vs A. Zverev\n(13:00) - (QF) - H. Rune vs M. Huesler\n(15:00) - (QF) -
-  F. Auger-Aliassime vs J. Struff\n(09:00) - (QF) - T. Arribage/V. Cornea v
- s M. Daniell/P. Oswald\n(10:30) - (SF) - Y. Bhambri/A. Olivetti vs A. Erle
- r/L. Miedler\n
+DESCRIPTION:09:00 - (QF)T. Fritz vs J. Draper on Center Court\n11:00 - (QF
+ )C. Garin vs A. Zverev on Center Court\n13:00 - (QF)H. Rune vs M. Huesler 
+ on Center Court\n15:00 - (QF)F. Auger-Aliassime vs J. Struff on Center Cou
+ rt\n09:00 - (QF)T. Arribage/V. Cornea vs M. Daniell/P. Oswald on Court 1\n
+ 10:30 - (SF)Y. Bhambri/A. Olivetti vs A. Erler/L. Miedler on Court 1\n
 LOCATION:Munich\, Germany
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tiriac Open
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240420
-DESCRIPTION:(07:00) - (R16) - G. Barrere vs S. Korda\n(09:00) - (QF) - M. 
- Fucsovics vs C. Moutet\n(11:00) - (QF) - A. Tabilo vs J. Fonseca\n(14:15) 
- - (QF) - F. Cerundolo vs M. Navone\n(07:00) - (R16) - M. Navone vs T. Seyb
- oth Wild\n(09:00) - (R16) - F. Cerundolo vs F. Coria\n(12:00) - (QF) - G. 
- Barrere vs P. Martinez\n(14:00) - (QF) - N. Borges/R. Stalder vs S. Doumbi
- a/F. Reboul\n(07:00) - (R16) - P. Martinez vs M. Kecmanovic\n(08:00) - (R1
- 6) - L. Glasspool/J. Rojer vs F. Martin/D. Molchanov\n(11:30) - (QF) - H. 
- Heliovaara/H. Patten vs F. Cabral/A. Nedovyesov\n(13:30) - (QF) - S. Arend
- s/M. Middelkoop vs L. Glasspool/J. Rojer\n(15:45) - (QF) - P. Martinez/A. 
- Tabilo vs N. Barrientos/R. Matos\n
+DESCRIPTION:07:00 - (R16)G. Barrere vs S. Korda on Center Court\n09:00 - (
+ QF)M. Fucsovics vs C. Moutet on Not Before 12:00 noon\n11:00 - (QF)A. Tabi
+ lo vs J. Fonseca on Not Before 12:00 noon\n14:15 - (QF)F. Cerundolo vs M. 
+ Navone on Not Before 5:15 pm\n07:00 - (R16)M. Navone vs T. Seyboth Wild on
+  Court 1\n09:00 - (R16)F. Cerundolo vs F. Coria on Court 1\n12:00 - (QF)G.
+  Barrere vs P. Martinez on Not Before 3:00 pm\n14:00 - (QF)N. Borges/R. St
+ alder vs S. Doumbia/F. Reboul on Not Before 3:00 pm\n07:00 - (R16)P. Marti
+ nez vs M. Kecmanovic on Court 2\n08:00 - (R16)L. Glasspool/J. Rojer vs F. 
+ Martin/D. Molchanov on Not Before 11:00 am\n11:30 - (QF)H. Heliovaara/H. P
+ atten vs F. Cabral/A. Nedovyesov on Not Before 2:30 pm\n13:30 - (QF)S. Are
+ nds/M. Middelkoop vs L. Glasspool/J. Rojer on Not Before 4:30 pm\n15:45 - 
+ (QF)P. Martinez/A. Tabilo vs N. Barrientos/R. Matos on Not Before 6:45 pm\
+ n
 LOCATION:Bucharest\, Romania
 END:VEVENT
 END:VCALENDAR
