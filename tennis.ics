@@ -1,40 +1,29 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Barcelona Open Banc Sabadell
-DTSTART;VALUE=DATE:20240420
-DTEND;VALUE=DATE:20240421
-DESCRIPTION:11:30 - (SF) - C. Ruud vs T. Etcheverry on Pista Rafa Nadal\n1
- 4:00 - (SF) - S. Tsitsipas vs D. Lajovic on Pista Rafa Nadal\n16:00 - (SF)
-  - M. Gonzalez/A. Molteni vs M. Arevalo/M. Pavic on Pista Rafa Nadal\n10:0
- 0 - (SF) - L. Chetry vs P. Cortes on Pista Andres Gimeno\n12:30 - (SF) - T
- . Machac/Z. Zhang vs H. Nys/J. Zielinski on Pista Andres Gimeno\n10:00 - (
- SF) - I. Basalo vs N. Heras on Pista 2\n12:00 - (SF) - M. Quesada vs T. Es
- carda on Pista 2\n14:00 - (SF) - I. Barroeta vs G. Corrales on Pista 2\n
+DTSTART;VALUE=DATE:20240421
+DTEND;VALUE=DATE:20240422
+DESCRIPTION:11:00 - (F) - H. Nys/J. Zielinski vs M. Gonzalez/A. Molteni on
+  Pista Rafa Nadal\n14:00 - (F) - S. Tsitsipas vs C. Ruud on Pista Rafa Nad
+ al\n08:30 - (F) - I. Basalo vs L. Chetry on Pista Andres Gimeno\n10:30 - (
+ F) - I. Barroeta vs T. Escarda on Pista Andres Gimeno\n
 LOCATION:Barcelona\, Spain
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BMW Open
-DTSTART;VALUE=DATE:20240420
-DTEND;VALUE=DATE:20240421
-DESCRIPTION:09:30 - (QF) - F. Auger-Aliassime vs J. Struff on Center Court
- \n11:30 - (SF) - C. Garin vs T. Fritz on Center Court\n13:00 - (SF) - F. A
- uger-Aliassime or J. Struff vs H. Rune on Center Court\n11:00 - (SF) - T. 
- Arribage/V. Cornea vs A. Mies/J. Struff on Court 1\n09:00 - (SF) - M. Onti
- veros vs L. Lita on Court 2\n11:00 - (SF) - L. Seibold vs E. Muller on Cou
- rt 2\n
+DTSTART;VALUE=DATE:20240421
+DTEND;VALUE=DATE:20240422
+DESCRIPTION:11:30 - (F) - T. Fritz vs J. Struff on Center Court\n13:30 - (
+ F) - A. Mies/J. Struff vs Y. Bhambri/A. Olivetti on Center Court\n10:00 - 
+ (F) - M. Ontiveros vs E. Muller on Court 1\n
 LOCATION:Munich\, Germany
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tiriac Open
-DTSTART;VALUE=DATE:20240420
-DTEND;VALUE=DATE:20240421
-DESCRIPTION:09:00 - (QF) - F. Cerundolo vs M. Navone on Center Court\n11:0
- 0 - (SF) - A. Tabilo vs M. Fucsovics on Center Court\n13:00 - (SF) - F. Ce
- rundolo or M. Navone vs G. Barrere on Center Court\n09:00 - (SF) - S. Aren
- ds/M. Middelkoop vs H. Heliovaara/H. Patten on Court 1\n10:30 - (QF) - N. 
- Borges/R. Stalder vs S. Doumbia/F. Reboul on Court 1\n12:00 - (SF) - N. Ba
- rrientos/R. Matos vs N. Borges/R. Stalder or S. Doumbia/F. Reboul on Court
-  1\n
+DTSTART;VALUE=DATE:20240421
+DTEND;VALUE=DATE:20240422
+DESCRIPTION:09:00 - (F) - H. Heliovaara/H. Patten vs S. Doumbia/F. Reboul 
+ on Center Court\n12:00 - (F) - M. Navone vs M. Fucsovics on Center Court\n
 LOCATION:Bucharest\, Romania
 END:VEVENT
 END:VCALENDAR
