@@ -1,29 +1,2 @@
 BEGIN:VCALENDAR
-BEGIN:VEVENT
-SUMMARY:Barcelona Open Banc Sabadell
-DTSTART;VALUE=DATE:20240421
-DTEND;VALUE=DATE:20240422
-DESCRIPTION:11:00 - (F) - H. Nys/J. Zielinski vs M. Gonzalez/A. Molteni on
-  Pista Rafa Nadal\n14:00 - (F) - S. Tsitsipas vs C. Ruud on Pista Rafa Nad
- al\n08:30 - (F) - I. Basalo vs L. Chetry on Pista Andres Gimeno\n10:30 - (
- F) - I. Barroeta vs T. Escarda on Pista Andres Gimeno\n
-LOCATION:Barcelona\, Spain
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BMW Open
-DTSTART;VALUE=DATE:20240421
-DTEND;VALUE=DATE:20240422
-DESCRIPTION:11:30 - (F) - T. Fritz vs J. Struff on Center Court\n13:30 - (
- F) - A. Mies/J. Struff vs Y. Bhambri/A. Olivetti on Center Court\n10:00 - 
- (F) - M. Ontiveros vs E. Muller on Court 1\n
-LOCATION:Munich\, Germany
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tiriac Open
-DTSTART;VALUE=DATE:20240421
-DTEND;VALUE=DATE:20240422
-DESCRIPTION:09:00 - (F) - H. Heliovaara/H. Patten vs S. Doumbia/F. Reboul 
- on Center Court\n12:00 - (F) - M. Navone vs M. Fucsovics on Center Court\n
-LOCATION:Bucharest\, Romania
-END:VEVENT
 END:VCALENDAR
