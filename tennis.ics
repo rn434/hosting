@@ -1,41 +1,37 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Mutua Madrid Open
-DTSTART;VALUE=DATE:20240426
-DTEND;VALUE=DATE:20240427
-DESCRIPTION:09:00 - () - L. Bronzetti vs E. Rybakina (4) on Manolo Santana
-  Stadium\n11:00 - () - M. Linette vs A. Sabalenka (2) on Manolo Santana St
- adium\n14:00 - (R64) - A. Shevchenko vs C. Alcaraz on Manolo Santana Stadi
- um\n18:00 - (R64) - B. Coric vs A. Zverev on Manolo Santana Stadium\n20:00
-  - () - D. Collins (13) vs O. Danilovic (Q) on Manolo Santana Stadium\n09:
- 00 - (R64) - A. Rublev vs F. Bagnis on Arantxa Sanchez Stadium\n11:00 - (R
- 64) - J. Shang vs A. Davidovich Fokina on Arantxa Sanchez Stadium\n13:00 -
-  () - Q. Zheng (6) vs Y. Putintseva on Arantxa Sanchez Stadium\n15:00 - ()
-  - M. Vondrousova (7) vs S. Rogers on Arantxa Sanchez Stadium\n17:00 - (R6
- 4) - M. Navone vs H. Rune on Arantxa Sanchez Stadium\n09:00 - () - A. Pavl
- yuchenkova (20) vs D. Saville (LL) on Stadium 3\n11:00 - () - C. Bucsa vs 
- D. Kasatkina (10) on Stadium 3\n13:00 - (R64) - H. Hurkacz vs J. Draper on
-  Stadium 3\n15:00 - (R64) - L. Darderi vs T. Fritz on Stadium 3\n17:00 - (
- R64) - J. Munar vs J. Struff on Stadium 3\n09:00 - (R64) - T. Paul vs L. K
- lein on Court 4\n11:00 - (R64) - T. Etcheverry vs D. Shapovalov on Court 4
- \n13:00 - () - J. Cristian (Q) vs B. Krejcikova (22) on Court 4\n15:00 - (
- ) - K. Boulter (26) vs R. Montgomery (WC) on Court 4\n17:00 - (R64) - T. G
- riekspoor vs T. Daniel on Court 4\n09:00 - () - C. Garcia (21) vs X. Wang 
- on Court 5\n11:00 - () - V. Jimenez Kasintseva (WC) vs J. Paolini (12) on 
- Court 5\n13:00 - () - H. Chan/V. Kudermetova vs H. Guo/X. Jiang on Court 5
- \n14:30 - () - C. Bucsa/S. Sorribes Tormo vs I. Gamarra Martins/B. Haddad 
- Maia on Court 5\n16:00 - () - A. Kalinina/D. Yastremska vs H. Watson/Y. Xu
-  on Court 5\n09:00 - (R64) - F. Marozsan vs F. Cerundolo on Court 6\n11:00
-  - (R64) - D. Altmaier vs A. Fils on Court 6\n13:00 - (R64) - S. Baez vs L
- . Van Assche on Court 6\n15:00 - (R64) - U. Humbert vs B. van de Zandschul
- p on Court 6\n09:00 - (R64) - L. Musetti vs T. Seyboth Wild on Court 7\n11
- :00 - () - E. Alexandrova (14) vs A. Krueger on Court 7\n13:00 - () - M. K
- ostyuk (25) vs M. Sherif on Court 7\n15:00 - () - L. Fernandez/A. Rus vs L
- . Kichenok/J. Ostapenko on Court 7\n09:00 - () - M. Andreeva vs L. Noskova
-  (29) on Court 8\n11:00 - () - C. Dolehide vs A. Kalinina (30) on Court 8\
- n13:00 - () - S. Bejlek (Q) vs A. Kalinskaya (24) on Court 8\n15:00 - () -
-  L. Bronzetti/L. Samsonova vs S. Aoyama/T. Babos on Court 8\n16:30 - () - 
- C. Gauff/T. Townsend vs A. Bondar/T. Mihalikova on Court 8\n
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+DESCRIPTION:09:00 - (R16) - D. Medvedev vs A. Bublik on Manolo Santana Sta
+ dium\n10:30 - () - I. Swiatek (1) vs B. Haddad Maia (11) on Manolo Santana
+  Stadium\n14:00 - (R16) - C. Alcaraz vs J. Struff on Manolo Santana Stadiu
+ m\n18:00 - () - M. Keys (18) vs O. Jabeur (8) on Manolo Santana Stadium\n2
+ 0:00 - (R16) - R. Nadal vs J. Lehecka on Manolo Santana Stadium\n09:00 - (
+ R16) - A. Rublev vs T. Griekspoor on Arantxa Sanchez Stadium\n11:00 - (R16
+ ) - T. Fritz vs H. Hurkacz on Arantxa Sanchez Stadium\n13:00 - (R16) - F. 
+ Cerundolo vs A. Zverev on Arantxa Sanchez Stadium\n15:00 - (R16) - J. Sinn
+ er vs K. Khachanov on Arantxa Sanchez Stadium\n17:00 - (R16) - F. Auger-Al
+ iassime vs C. Ruud on Arantxa Sanchez Stadium\n09:00 - () - C. Dolehide/D.
+  Krawczyk vs A. Pavlyuchenkova/A. Potapova on Stadium 3\n10:30 - () - S. H
+ sieh/E. Mertens vs L. Kichenok/J. Ostapenko on Stadium 3\n12:00 - (R32) - 
+ S. Gille/J. Vliegen vs P. Tsitsipas/S. Tsitsipas on Stadium 3\n13:30 - (R3
+ 2) - S. Bolelli/A. Vavassori vs D. Medvedev/T. Paul on Stadium 3\n15:00 - 
+ (R32) - S. Korda/J. Thompson vs R. Bopanna/M. Ebden on Stadium 3\n09:00 - 
+ (R32) - A. Karatsev/Z. Zhang vs S. Gonzalez/E. Roger-Vasselin on Court 4\n
+ 10:30 - (R32) - J. Salisbury/N. Skupski vs N. Mahut/A. Olivetti on Court 4
+ \n12:00 - (R32) - M. Granollers/H. Zeballos vs T. Griekspoor/W. Koolhof on
+  Court 4\n13:30 - (R32) - H. Nys/J. Zielinski vs D. Molchanov/J. Smith on 
+ Court 4\n15:00 - (R32) - N. Lammons/J. Withrow vs P. Cachin/P. Kotov on Co
+ urt 4\n09:00 - (R32) - A. Behar/A. Pavlasek vs M. Arevalo/M. Pavic on Cour
+ t 5\n10:30 - (R32) - B. Hassan/A. Shelbayh vs I. Dodig/A. Krajicek on Cour
+ t 5\n12:00 - (R32) - G. Escobar/A. Nedovyesov vs M. Melo/R. Ram on Court 5
+ \n13:30 - (R32) - J. Murray/M. Venus vs A. Bublik/D. Shapovalov on Court 5
+ \n15:00 - (R32) - K. Krawietz/T. Puetz vs R. Haase/F. Martin on Court 5\n1
+ 0:00 - (R32) - A. Molteni/J. Peers vs N. Barrientos/A. Mies on Court 6\n11
+ :30 - (R32) - L. Glasspool/J. Rojer vs A. de Minaur/A. Popyrin on Court 6\
+ n13:30 - (R32) - S. Doumbia/F. Reboul vs F. Cobolli/T. Monteiro on Court 6
+ \n
 LOCATION:Madrid\, Spain
 END:VEVENT
 END:VCALENDAR
