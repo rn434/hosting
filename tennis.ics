@@ -1,27 +1,13 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Mutua Madrid Open
-DTSTART;VALUE=DATE:20240502
-DTEND;VALUE=DATE:20240503
-DESCRIPTION:10:00 - (QF) - J. Murray/M. Venus vs S. Doumbia/F. Reboul on M
- anolo Santana Stadium\n11:30 - (QF) - N. Lammons/J. Withrow vs A. Behar/A.
-  Pavlasek on Manolo Santana Stadium\n14:00 - () - I. Swiatek (1) vs M. Key
- s (18) on Manolo Santana Stadium\n18:00 - (QF) - D. Medvedev vs J. Lehecka
-  on Manolo Santana Stadium\n19:30 - () - E. Rybakina (4) vs A. Sabalenka (
- 2) on Manolo Santana Stadium\n13:00 - (QF) - S. Korda/J. Thompson vs S. Bo
- lelli/A. Vavassori on Arantxa Sanchez Stadium\n14:30 - (QF) - H. Nys/J. Zi
- elinski vs M. Granollers/H. Zeballos on Arantxa Sanchez Stadium\n09:00 - (
- R16) - E. Carrascosa Diaz vs E. Helguera Casado on Court 6\n11:00 - (R16) 
- - R. Perez Socas vs M. Villar Uria on Court 6\n13:00 - (R16) - E. Gonzalez
-  Ollich vs J. Martinez Vasquez on Court 6\n15:00 - (R16) - D. Aguiar Johan
- sson vs M. Carrascosa Diaz on Court 6\n09:00 - (R16) - A. Climent Cardona 
- vs N. Bellas Panadero on Court 7\n11:00 - (R16) - G. Vedri Asensi vs V. Se
- cara on Court 7\n13:00 - (R16) - H. Tomas Garcia vs A. Pereiro Lopez on Co
- urt 7\n15:00 - (R16) - I. Costa Lopez vs I. Felguera Mira on Court 7\n09:0
- 0 - (QF) - J. Giaccio vs V. Vlahova on Court 8\n11:00 - (QF) - C. Fernande
- z Rincon vs G. Paun Lazar on Court 8\n13:00 - (QF) - A. Orlando Pellicero 
- vs M. Pico Navarro on Court 8\n15:00 - (QF) - M. Koziar vs Y. Muelle Valde
- z on Court 8\n
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240505
+DESCRIPTION:13:30 - (F) - S. Korda/J. Thompson vs A. Behar/A. Pavlasek on 
+ Manolo Santana Stadium\n16:30 - () - I. Swiatek (1) vs A. Sabalenka (2) on
+  Manolo Santana Stadium\n11:00 - (F) - J. Giaccio vs C. Fernandez Rincon o
+ n Stadium 3\n13:00 - (SF) - M. Villar Uria vs E. Gonzalez Ollich on Stadiu
+ m 3\n15:00 - (SF) - I. Costa Lopez vs V. Secara on Stadium 3\n
 LOCATION:Madrid\, Spain
 END:VEVENT
 END:VCALENDAR
