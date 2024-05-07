@@ -1,13 +1,2 @@
 BEGIN:VCALENDAR
-BEGIN:VEVENT
-SUMMARY:Mutua Madrid Open
-DTSTART;VALUE=DATE:20240504
-DTEND;VALUE=DATE:20240505
-DESCRIPTION:13:30 - (F) - S. Korda/J. Thompson vs A. Behar/A. Pavlasek on 
- Manolo Santana Stadium\n16:30 - () - I. Swiatek (1) vs A. Sabalenka (2) on
-  Manolo Santana Stadium\n11:00 - (F) - J. Giaccio vs C. Fernandez Rincon o
- n Stadium 3\n13:00 - (SF) - M. Villar Uria vs E. Gonzalez Ollich on Stadiu
- m 3\n15:00 - (SF) - I. Costa Lopez vs V. Secara on Stadium 3\n
-LOCATION:Madrid\, Spain
-END:VEVENT
 END:VCALENDAR
