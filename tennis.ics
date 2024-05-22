@@ -1,2 +1,32 @@
 BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Gonet Geneva Open
+DTSTART;VALUE=DATE:20240522
+DTEND;VALUE=DATE:20240523
+DESCRIPTION:09:30 - (R16) - S. Baez vs R. Carballes Baena on Center Court\
+ n11:30 - (R16) - A. Michelsen vs T. Fritz on Center Court\n13:30 - (R16) -
+  C. Ruud vs S. Ofner on Center Court\n16:00 - (R16) - N. Djokovic vs Y. Ha
+ nfmann on Center Court\n18:00 - (R16) - D. Shapovalov vs T. Griekspoor on 
+ Center Court\n09:30 - (R16) - J. Cash/R. Galloway vs A. Erler/L. Miedler o
+ n Court 1\n11:00 - (R16) - T. Machac vs N. Moreno De Alboran on Court 1\n1
+ 3:00 - (QF) - L. Glasspool/J. Rojer vs J. Murray/M. Venus on Court 1\n14:3
+ 0 - (QF) - H. Nys/J. Zielinski vs G. Escobar/A. Nedovyesov on Court 1\n09:
+ 30 - (R16) - M. Arevalo/M. Pavic vs R. Matos/M. Melo on Court 2\n
+LOCATION:Geneva\, Switzerland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Parc Auvergne-Rhone-Alpes Lyon
+DTSTART;VALUE=DATE:20240522
+DTEND;VALUE=DATE:20240523
+DESCRIPTION:09:00 - (R16) - L. Darderi vs A. Mannarino on Court Central\n1
+ 1:00 - (R16) - D. Koepfer vs U. Humbert on Court Central\n13:00 - (R16) - 
+ A. Rinderknech vs F. Tiafoe on Court Central\n15:30 - (R16) - H. Gaston vs
+  F. Cerundolo on Court Central\n09:00 - (R16) - T. Etcheverry vs T. Seybot
+ h Wild on Court 1\n11:00 - (QF) - Y. Bhambri/A. Olivetti vs S. Arends/M. M
+ iddelkoop on Court 1\n13:30 - (QF) - H. Heliovaara/H. Patten vs L. Darderi
+ /F. Romboli on Court 1\n09:00 - (QF) - M. Gonzalez/A. Molteni vs D. Hidalg
+ o/J. Peers on Court 2\n10:30 - (QF) - S. Gonzalez/E. Roger-Vasselin vs N. 
+ Barrientos/F. Cabral on Court 2\n
+LOCATION:Lyon\, France
+END:VEVENT
 END:VCALENDAR
