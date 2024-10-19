@@ -85,8 +85,7 @@ DTEND;TZID=America/Chicago:20240826T105000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Case 1: Etiology\\\, Diagnosis\\\, and Treatment of Breast Cancer(
- 1)
+SUMMARY:Case 1: Etiology\, Diagnosis\, and Treatment of Breast Cancer(1)
 DTSTART;TZID=America/Chicago:20240826T110000
 DTEND;TZID=America/Chicago:20240826T120000
 LOCATION:MEC 204
@@ -140,29 +139,28 @@ DTEND;TZID=America/Chicago:20240828T095000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Case 1: Etiology\\\, Diagnosis\\\, and Treatment of Breast Cancer(
- 2)
+SUMMARY:Case 1: Etiology\, Diagnosis\, and Treatment of Breast Cancer(2)
 DTSTART;TZID=America/Chicago:20240828T100000
 DTEND;TZID=America/Chicago:20240828T105000
 LOCATION:MEC 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Case 1: Etiology\\\, Diagnosis\\\, and Treatment of Breast Cancer
+SUMMARY:Case 1: Etiology\, Diagnosis\, and Treatment of Breast Cancer
 DTSTART;TZID=America/Chicago:20240828T110000
 DTEND;TZID=America/Chicago:20240828T120000
 LOCATION:MEC 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Welcome and Introduction to POM\\\, Motivational Interviewing (MI
- ) and Screening\\\, Brief Intervention and Referral to Treatment (SBIRT) a
- nd Clinical Reasoning
+SUMMARY: Welcome and Introduction to POM\, Motivational Interviewing (MI) 
+ and Screening\, Brief Intervention and Referral to Treatment (SBIRT) and C
+ linical Reasoning
 DTSTART;TZID=America/Chicago:20240828T131000
 DTEND;TZID=America/Chicago:20240828T140000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Motivational Interviewing (MI) and Screening\\\, Brief Interventi
- on and Referral to Treatment (SBIRT) and Clinical Reasoning
+SUMMARY: Motivational Interviewing (MI) and Screening\, Brief Intervention
+  and Referral to Treatment (SBIRT) and Clinical Reasoning
 DTSTART;TZID=America/Chicago:20240828T141000
 DTEND;TZID=America/Chicago:20240828T155000
 LOCATION:MEC 202
@@ -300,7 +298,7 @@ DTEND;VALUE=DATE:20240908
 LOCATION:Virtual - Asynchronous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Osteology\\\, Vertebral Column and Spinal Cord
+SUMMARY:Human Osteology\, Vertebral Column and Spinal Cord
 DTSTART;VALUE=DATE:20240908
 DTEND;VALUE=DATE:20240908
 LOCATION:Virtual - Asynchronous
@@ -366,7 +364,7 @@ DTEND;TZID=America/Chicago:20240911T140000
 LOCATION:MEC 202
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Special Population History\\\, Vital Signs and Health Maintenance 
+SUMMARY:Special Population History\, Vital Signs and Health Maintenance 
 DTSTART;TZID=America/Chicago:20240911T141000
 DTEND;TZID=America/Chicago:20240911T155000
 LOCATION:MEC 202
@@ -486,15 +484,13 @@ DTEND;TZID=America/Chicago:20240918T120000
 LOCATION:MEC 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:History\\\, Vital Signs\\\, Survey Physical Exam and Case Presenta
- tion
+SUMMARY:History\, Vital Signs\, Survey Physical Exam and Case Presentation
 DTSTART;TZID=America/Chicago:20240918T130000
 DTEND;TZID=America/Chicago:20240918T170000
 LOCATION:7300 Bosque Blvd
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:History\\\, Vital Signs\\\, Survey Physical Exam and Case Presenta
- tion
+SUMMARY:History\, Vital Signs\, Survey Physical Exam and Case Presentation
 DTSTART;TZID=America/Chicago:20240919T130000
 DTEND;TZID=America/Chicago:20240919T170000
 LOCATION:7300 Bosque Blvd
@@ -542,19 +538,19 @@ DTEND;TZID=America/Chicago:20240923T120000
 LOCATION:MEC 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pulmonary histology\\\, pathology and imaging
+SUMMARY:Pulmonary histology\, pathology and imaging
 DTSTART;TZID=America/Chicago:20240923T131000
 DTEND;TZID=America/Chicago:20240923T140000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pulmonary histology\\\, pathology and imaging
+SUMMARY:Pulmonary histology\, pathology and imaging
 DTSTART;TZID=America/Chicago:20240923T141000
 DTEND;TZID=America/Chicago:20240923T150000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pulmonary histology\\\, pathology and imaging
+SUMMARY:Pulmonary histology\, pathology and imaging
 DTSTART;TZID=America/Chicago:20240923T151000
 DTEND;TZID=America/Chicago:20240923T160000
 LOCATION:MEC 109
@@ -698,7 +694,7 @@ DTEND;TZID=America/Chicago:20240930T160000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Renal Anatomy\\\, Development\\\, Structure\\\, and Function
+SUMMARY:Renal Anatomy\, Development\, Structure\, and Function
 DTSTART;VALUE=DATE:20240929
 DTEND;VALUE=DATE:20240929
 LOCATION:Virtual - Asynchronous
@@ -788,28 +784,28 @@ DTEND;TZID=America/Chicago:20241007T120000
 LOCATION:MEC 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAB: Gross Anatomy: Anterior Thoracic Wall\\\, Pleural Cavity\\\, 
- & Lungs
+SUMMARY:LAB: Gross Anatomy: Anterior Thoracic Wall\, Pleural Cavity\, & Lu
+ ngs
 DTSTART;TZID=America/Chicago:20241007T131000
 DTEND;TZID=America/Chicago:20241007T140000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAB: Gross Anatomy: Anterior Thoracic Wall\\\, Pleural Cavity\\\, 
- & Lungs
+SUMMARY:LAB: Gross Anatomy: Anterior Thoracic Wall\, Pleural Cavity\, & Lu
+ ngs
 DTSTART;TZID=America/Chicago:20241007T141000
 DTEND;TZID=America/Chicago:20241007T150000
 LOCATION:Anatomy Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAB: Gross Anatomy: Anterior Thoracic Wall\\\, Pleural Cavity\\\, 
- & Lungs
+SUMMARY:LAB: Gross Anatomy: Anterior Thoracic Wall\, Pleural Cavity\, & Lu
+ ngs
 DTSTART;TZID=America/Chicago:20241007T151000
 DTEND;TZID=America/Chicago:20241007T160000
 LOCATION:Anatomy Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cardiac Anatomy\\\, Development\\\, Structure and Function
+SUMMARY:Cardiac Anatomy\, Development\, Structure and Function
 DTSTART;VALUE=DATE:20241006
 DTEND;VALUE=DATE:20241006
 LOCATION:Virtual - Asynchronous
@@ -1103,15 +1099,15 @@ DTEND;TZID=America/Chicago:20241023T120000
 LOCATION:MEC 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cardiopulmonary System\\\, Interprofessional Education (IPE) and O
- ral Presentation Workshop
+SUMMARY:Cardiopulmonary System\, Interprofessional Education (IPE) and Ora
+ l Presentation Workshop
 DTSTART;TZID=America/Chicago:20241023T131000
 DTEND;TZID=America/Chicago:20241023T140000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cardiopulmonary System\\\, Interprofessional Education (IPE) and O
- ral Presentations
+SUMMARY:Cardiopulmonary System\, Interprofessional Education (IPE) and Ora
+ l Presentations
 DTSTART;TZID=America/Chicago:20241023T141000
 DTEND;TZID=America/Chicago:20241023T155000
 LOCATION:MEC 202
@@ -1345,7 +1341,7 @@ DTEND;TZID=America/Chicago:20241111T095000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disorders of Calcium\\\, Magnesium and Phosphorus
+SUMMARY:Disorders of Calcium\, Magnesium and Phosphorus
 DTSTART;TZID=America/Chicago:20241111T100000
 DTEND;TZID=America/Chicago:20241111T105000
 LOCATION:MEC 109
@@ -1357,22 +1353,22 @@ DTEND;TZID=America/Chicago:20241111T120000
 LOCATION:MEC 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Review: Cardiopulmonary and Renal Histology\\\, Pathology\\\, and 
- Imaging
+SUMMARY:Review: Cardiopulmonary and Renal Histology\, Pathology\, and Imag
+ ing
 DTSTART;TZID=America/Chicago:20241111T131000
 DTEND;TZID=America/Chicago:20241111T140000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Review: Cardiopulmonary and Renal Histology\\\, Pathology\\\, and 
- Imaging
+SUMMARY:Review: Cardiopulmonary and Renal Histology\, Pathology\, and Imag
+ ing
 DTSTART;TZID=America/Chicago:20241111T141000
 DTEND;TZID=America/Chicago:20241111T150000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Review: Cardiopulmonary and Renal Histology\\\, Pathology\\\, and 
- Imaging
+SUMMARY:Review: Cardiopulmonary and Renal Histology\, Pathology\, and Imag
+ ing
 DTSTART;TZID=America/Chicago:20241111T151000
 DTEND;TZID=America/Chicago:20241111T160000
 LOCATION:MEC 109
@@ -1420,12 +1416,6 @@ DTEND;TZID=America/Chicago:20241113T120000
 LOCATION:MEC 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nonverbal Communication
-DTSTART;TZID=America/Chicago:20241113T130000
-DTEND;TZID=America/Chicago:20241113T140000
-LOCATION:MEC 202
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Learning Community Advanced Communication / Brians Field Day - MS1
 DTSTART;TZID=America/Chicago:20241113T130000
 DTEND;TZID=America/Chicago:20241113T153000
@@ -1462,19 +1452,19 @@ DTEND;TZID=America/Chicago:20241118T095000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Histology of Blood\\\, Hematolymphoid Organs and Benign Hematology
+SUMMARY:Histology of Blood\, Hematolymphoid Organs and Benign Hematology
 DTSTART;TZID=America/Chicago:20241118T131000
 DTEND;TZID=America/Chicago:20241118T140000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Histology of Blood\\\, Hematolymphoid Organs and Benign Hematology
+SUMMARY:Histology of Blood\, Hematolymphoid Organs and Benign Hematology
 DTSTART;TZID=America/Chicago:20241118T141000
 DTEND;TZID=America/Chicago:20241118T150000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Histology of Blood\\\, Hematolymphoid Organs and Benign Hematology
+SUMMARY:Histology of Blood\, Hematolymphoid Organs and Benign Hematology
 DTSTART;TZID=America/Chicago:20241118T151000
 DTEND;TZID=America/Chicago:20241118T160000
 LOCATION:MEC 109
@@ -1498,19 +1488,19 @@ DTEND;TZID=America/Chicago:20241120T085000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Thalassemias\\\, Hemoglobinopathies and Sickle Cell Disease
+SUMMARY:Thalassemias\, Hemoglobinopathies and Sickle Cell Disease
 DTSTART;TZID=America/Chicago:20241120T090000
 DTEND;TZID=America/Chicago:20241120T095000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Giving Bad News\\\, Suffering\\\, Eliciting Feedback
+SUMMARY:Giving Bad News\, Suffering\, Eliciting Feedback
 DTSTART;TZID=America/Chicago:20241120T131000
 DTEND;TZID=America/Chicago:20241120T140000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Giving Bad News\\\, Suffering\\\, Eliciting Feedback
+SUMMARY:Giving Bad News\, Suffering\, Eliciting Feedback
 DTSTART;TZID=America/Chicago:20241120T141000
 DTEND;TZID=America/Chicago:20241120T155000
 LOCATION:MEC 202
@@ -1612,14 +1602,14 @@ DTEND;TZID=America/Chicago:20241203T180000
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Myelodysplastic Syndromes\\\, Myeloprolfierative Neoplasms\\\, Acu
- te Leukemias
+SUMMARY:Myelodysplastic Syndromes\, Myeloprolfierative Neoplasms\, Acute L
+ eukemias
 DTSTART;TZID=America/Chicago:20241204T080000
 DTEND;TZID=America/Chicago:20241204T085000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MGUS\\\, Myeloma\\\, Lymphomas and Lymphoid Neoplasms
+SUMMARY:MGUS\, Myeloma\, Lymphomas and Lymphoid Neoplasms
 DTSTART;TZID=America/Chicago:20241204T090000
 DTEND;TZID=America/Chicago:20241204T095000
 LOCATION:MEC 109
@@ -1637,33 +1627,21 @@ DTEND;TZID=America/Chicago:20241204T155000
 LOCATION:MEC 202
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cardiac/Pulmonary Assessment (Houston)
-DTSTART;TZID=America/Chicago:20241205T080000
-DTEND;TZID=America/Chicago:20241205T120000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hematology Office Hours
 DTSTART;TZID=America/Chicago:20241205T110000
 DTEND;TZID=America/Chicago:20241205T120000
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cardiac/Pulmonary Assessment (Houston)
-DTSTART;TZID=America/Chicago:20241205T130000
-DTEND;TZID=America/Chicago:20241205T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hematological Cancer Therapeutics\\\, Pharmacology\\\, and Hematop
- oietic Stem Cell Transplant
+SUMMARY:Hematological Cancer Therapeutics\, Pharmacology\, and Hematopoiet
+ ic Stem Cell Transplant
 DTSTART;TZID=America/Chicago:20241206T080000
 DTEND;TZID=America/Chicago:20241206T085000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hematological Cancer Therapeutics\\\, Pharmacology\\\, and Hematop
- oietic Stem Cell Transplant
+SUMMARY:Hematological Cancer Therapeutics\, Pharmacology\, and Hematopoiet
+ ic Stem Cell Transplant
 DTSTART;TZID=America/Chicago:20241206T090000
 DTEND;TZID=America/Chicago:20241206T095000
 LOCATION:MEC 109
@@ -1723,7 +1701,7 @@ DTEND;TZID=America/Chicago:20241211T095000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heme Exam\\\, Observations and Eliciting Feedback
+SUMMARY:Heme Exam\, Observations and Eliciting Feedback
 DTSTART;TZID=America/Chicago:20241211T130000
 DTEND;TZID=America/Chicago:20241211T170000
 LOCATION:7300 Bosque Blvd
@@ -1747,7 +1725,7 @@ DTEND;TZID=America/Chicago:20241212T140000
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heme Exam\\\, Observations and Eliciting Feedback
+SUMMARY:Heme Exam\, Observations and Eliciting Feedback
 DTSTART;TZID=America/Chicago:20241212T130000
 DTEND;TZID=America/Chicago:20241212T170000
 LOCATION:7300 Bosque Blvd
@@ -1771,9 +1749,9 @@ DTEND;TZID=America/Chicago:20241022T142000
 LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cardiac and Pulmonary Workshop
+SUMMARY:Cardiac and Pulmonary Ultrasound Workshop
 DTSTART;TZID=America/Chicago:20241028T150000
 DTEND;TZID=America/Chicago:20241028T163000
-LOCATION:MEC 202
+LOCATION:Conference Center - Room A200.AB
 END:VEVENT
 END:VCALENDAR
