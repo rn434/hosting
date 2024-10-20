@@ -1,5 +1,11 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:MCSD Lectures
+DTSTART;TZID=America/Chicago:20240906T160000
+DTEND;TZID=America/Chicago:20240906T173000
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AADMD: Improving health care for individuals with developmental/ I
  ntellectual disabilities
 DTSTART;TZID=America/Chicago:20240911T173000
@@ -64,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:International CSIoH Speaker event
 DTSTART;TZID=America/Chicago:20241024T120000
 DTEND;TZID=America/Chicago:20241024T130000
-LOCATION:
+LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Journal Club: Toxocara in Houston and Associated SDOH
