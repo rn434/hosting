@@ -8,7 +8,7 @@ LOCATION:https://bcm.zoom.us/j/93309438231
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Justice InvolvEd Introduction Meeting and Training
-DTSTART;TZID=America/Chicago:20240919T050000
+DTSTART;TZID=America/Chicago:20240919T170000
 DTEND;TZID=America/Chicago:20240919T190000
 LOCATION:https://bcm.zoom.us/j/98130526834?pwd=Pc0nUZslaBe7t7VBb7g8NFZpN0i
  LnO.1
@@ -16,7 +16,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG x AADMD x GOBIG: Providing ObGyn Care to Patients with Intell
  ectual and Developmental Disabilities
-DTSTART;TZID=America/Chicago:20240926T070000
+DTSTART;TZID=America/Chicago:20240926T190000
 DTEND;TZID=America/Chicago:20240926T200000
 LOCATION:https://bcm.zoom.us/j/98933153511
 END:VEVENT
@@ -68,7 +68,7 @@ LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Journal Club: Toxocara in Houston and Associated SDOH
-DTSTART;TZID=America/Chicago:20241023T050000
+DTSTART;TZID=America/Chicago:20241023T170000
 DTEND;TZID=America/Chicago:20241023T180000
 LOCATION:https://bcm.zoom.us/j/91934419618?pwd=UaklwgX1O6bzUVzAUJVPHqbbo2S
  k9Z.1
