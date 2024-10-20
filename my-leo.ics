@@ -1,12 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #1 Symptom HPI/Survey Exam- Houston and
-  Temple
-DTSTART;TZID=America/Chicago:20240820T080000
-DTEND;TZID=America/Chicago:20240820T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Ethical Imperative to Think
 DTSTART;TZID=America/Chicago:20240821T080000
 DTEND;TZID=America/Chicago:20240821T085000
