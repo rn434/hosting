@@ -3,7 +3,7 @@ BEGIN:VEVENT
 SUMMARY:AADMD: Improving health care for individuals with developmental/ I
  ntellectual disabilities
 DTSTART;TZID=America/Chicago:20240911T173000
-DTEND;TZID=America/Chicago:20240911T063000
+DTEND;TZID=America/Chicago:20240911T183000
 LOCATION:https://bcm.zoom.us/j/93309438231
 END:VEVENT
 BEGIN:VEVENT
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anti-Human Trafficking Workshop for Clinical Rotations
 DTSTART;TZID=America/Chicago:20241017T120000
-DTEND;TZID=America/Chicago:20241017T010000
+DTEND;TZID=America/Chicago:20241017T130000
 LOCATION:https://bcm.zoom.us/j/91909865890?pwd=xGHiAnKtUpbzQ0HHbimu4D6DOgt
  YAx.1
 END:VEVENT
