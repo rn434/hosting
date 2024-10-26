@@ -1,1 +1,87 @@
-
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:MCSD Lectures
+DTSTART;TZID=America/Chicago:20240906T160000
+DTEND;TZID=America/Chicago:20240906T173000
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Justice InvolvEd Introduction Meeting and Training
+DTSTART;TZID=America/Chicago:20240919T170000
+DTEND;TZID=America/Chicago:20240919T190000
+LOCATION:https://bcm.zoom.us/j/98130526834?pwd=Pc0nUZslaBe7t7VBb7g8NFZpN0i
+ LnO.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHIG x AADMD x GOBIG: Providing ObGyn Care to Patients with Intell
+ ectual and Developmental Disabilities
+DTSTART;TZID=America/Chicago:20240926T190000
+DTEND;TZID=America/Chicago:20240926T200000
+LOCATION:https://bcm.zoom.us/j/98933153511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronic Pain and Palliative Care 
+DTSTART;TZID=America/Chicago:20240930T173000
+DTEND;TZID=America/Chicago:20240930T183000
+LOCATION:https://bcm.zoom.us/j/91481808321?pwd=J9ndDaZC9kQKDbnilaaaa2ea0yS
+ MY5.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCSD Lecture - Temple
+DTSTART;TZID=America/Chicago:20241004T170000
+DTEND;TZID=America/Chicago:20241004T180000
+LOCATION:Mayborn Auditorium 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCSD Breakfast Talk and Introduction - Temple
+DTSTART;TZID=America/Chicago:20241005T081500
+DTEND;TZID=America/Chicago:20241005T084500
+LOCATION:MEC Lobby
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Socio-Geographic History of Houston and its Implication on Tod
+ ay’s Social Determinants of Health
+DTSTART;TZID=America/Chicago:20241008T180000
+DTEND;TZID=America/Chicago:20241008T190000
+LOCATION:https://us05web.zoom.us/j/84407334612?pwd=dh939eD0gQqm3bcAMbaDygp
+ n5IGuhD.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anti-Human Trafficking Workshop for Clinical Rotations
+DTSTART;TZID=America/Chicago:20241017T120000
+DTEND;TZID=America/Chicago:20241017T130000
+LOCATION:https://bcm.zoom.us/j/91909865890?pwd=xGHiAnKtUpbzQ0HHbimu4D6DOgt
+ YAx.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Equity and Respect in Healthcare Engagement by Dr. Faith Fletcher
+DTSTART;TZID=America/Chicago:20241021T120000
+DTEND;TZID=America/Chicago:20241021T130000
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journal Club: Toxocara in Houston and Associated SDOH
+DTSTART;TZID=America/Chicago:20241023T170000
+DTEND;TZID=America/Chicago:20241023T180000
+LOCATION:https://bcm.zoom.us/j/91934419618?pwd=UaklwgX1O6bzUVzAUJVPHqbbo2S
+ k9Z.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International CSIoH Speaker event
+DTSTART;TZID=America/Chicago:20241024T120000
+DTEND;TZID=America/Chicago:20241024T130000
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siempre Unidos Medical Spanish Workshop
+DTSTART;TZID=America/Chicago:20241030T180000
+DTEND;TZID=America/Chicago:20241030T190000
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Responding to Intimate Partner Violence and Sexual Assault
+DTSTART;TZID=America/Chicago:20241029T183000
+DTEND;TZID=America/Chicago:20241029T193000
+LOCATION:TBD
+END:VEVENT
+END:VCALENDAR
