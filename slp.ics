@@ -82,6 +82,6 @@ BEGIN:VEVENT
 SUMMARY:Responding to Intimate Partner Violence and Sexual Assault
 DTSTART;TZID=America/Chicago:20241029T183000
 DTEND;TZID=America/Chicago:20241029T193000
-LOCATION:TBD
+LOCATION:https://bcm.zoom.us/j/99737115359
 END:VEVENT
 END:VCALENDAR
