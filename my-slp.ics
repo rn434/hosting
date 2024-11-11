@@ -78,4 +78,12 @@ DTSTART;TZID=America/Chicago:20241111T120000
 DTEND;TZID=America/Chicago:20241111T130000
 LOCATION:https://bcm.zoom.us/j/95584734372
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Trauma-Informed Care: Mindfully Serving Patients and the 
+ Community
+DTSTART;TZID=America/Chicago:20241121T180000
+DTEND;TZID=America/Chicago:20241121T190000
+LOCATION:https://bcm.zoom.us/j/91240724009?pwd=BO8wxezCyxdMF8ot0E2JjNc0xcL
+ 6Lu.1
+END:VEVENT
 END:VCALENDAR
