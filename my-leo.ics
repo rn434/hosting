@@ -1,23 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Renal Anatomy\, Development\, Structure\, and Function
-DTSTART;VALUE=DATE:20240929
-DTEND;VALUE=DATE:20240929
-LOCATION:Virtual - Asynchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Personal Bias and Impact on Patient Outcomes
-DTSTART;TZID=America/Chicago:20241001T100000
-DTEND;TZID=America/Chicago:20241001T105000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Structural Bias and Impact on Patient Outcomes
-DTSTART;TZID=America/Chicago:20241001T110000
-DTEND;TZID=America/Chicago:20241001T115000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tubular and Interstitial diseases 
 DTSTART;TZID=America/Chicago:20241002T080000
 DTEND;TZID=America/Chicago:20241002T085000
