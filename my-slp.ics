@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Managing Diabetic Foot Wounds
 DTSTART;TZID=America/Chicago:20241204T180000
 DTEND;TZID=America/Chicago:20241204T190000
-LOCATION:TBD
+LOCATION:https://bcm.zoom.us/j/96300514436
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Climate Change and Pediatric Global Health
