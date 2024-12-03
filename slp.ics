@@ -111,18 +111,17 @@ DTEND;TZID=America/Chicago:20241121T193000
 LOCATION:https://bcm.zoom.us/j/97212053296
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BPSA Lunch lecture with Dr.Sohail Nibras - SDOH and Psychiatry con
- ditions in Pediatrics
-DTSTART;TZID=America/Chicago:20241205T120000
-DTEND;TZID=America/Chicago:20241205T130000
-LOCATION:https://bcm.zoom.us/j/93102918628?pwd=fbb8FybN7VTbf2PHrb9a7Hf6oY5
- 3wH.1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HOMES Student Group Journal Club
 DTSTART;TZID=America/Chicago:20241125T180000
 DTEND;TZID=America/Chicago:20241125T190000
 LOCATION:https://bcm.zoom.us/j/95300129036
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Climate Change and Pediatric Global Health
+DTSTART;TZID=America/Chicago:20241202T170000
+DTEND;TZID=America/Chicago:20241202T180000
+LOCATION:https://bcm.zoom.us/j/98217045930?pwd=saNbL3BKbSu17mHS7lLo8OuVsMX
+ WVU.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Managing Diabetic Foot Wounds
@@ -131,11 +130,12 @@ DTEND;TZID=America/Chicago:20241204T190000
 LOCATION:https://bcm.zoom.us/j/96300514436
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Climate Change and Pediatric Global Health
-DTSTART;TZID=America/Chicago:20241202T170000
-DTEND;TZID=America/Chicago:20241202T180000
-LOCATION:https://bcm.zoom.us/j/98217045930?pwd=saNbL3BKbSu17mHS7lLo8OuVsMX
- WVU.1
+SUMMARY:BPSA Lunch lecture with Dr.Sohail Nibras - SDOH and Psychiatry con
+ ditions in Pediatrics
+DTSTART;TZID=America/Chicago:20241205T120000
+DTEND;TZID=America/Chicago:20241205T130000
+LOCATION:https://bcm.zoom.us/j/93102918628?pwd=fbb8FybN7VTbf2PHrb9a7Hf6oY5
+ 3wH.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHIG: Care of the Immigrant Child with Dr. Karla Fredricks
