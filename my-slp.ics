@@ -1,5 +1,19 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:PHIG x AADMD x GOBIG: Providing ObGyn Care to Patients with Intell
+ ectual and Developmental Disabilities
+DTSTART;TZID=America/Chicago:20240926T190000
+DTEND;TZID=America/Chicago:20240926T200000
+LOCATION:https://bcm.zoom.us/j/98933153511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronic Pain and Palliative Care 
+DTSTART;TZID=America/Chicago:20240930T173000
+DTEND;TZID=America/Chicago:20240930T183000
+LOCATION:https://bcm.zoom.us/j/91481808321?pwd=J9ndDaZC9kQKDbnilaaaa2ea0yS
+ MY5.1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MCSD Lecture - Temple
 DTSTART;TZID=America/Chicago:20241004T170000
 DTEND;TZID=America/Chicago:20241004T180000
@@ -12,9 +26,25 @@ DTEND;TZID=America/Chicago:20241005T084500
 LOCATION:MEC Lobby
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Socio-Geographic History of Houston and its Implication on Tod
+ ay’s Social Determinants of Health
+DTSTART;TZID=America/Chicago:20241008T180000
+DTEND;TZID=America/Chicago:20241008T190000
+LOCATION:https://us05web.zoom.us/j/84407334612?pwd=dh939eD0gQqm3bcAMbaDygp
+ n5IGuhD.1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International CSIoH Speaker event
 DTSTART;TZID=America/Chicago:20241024T120000
 DTEND;TZID=America/Chicago:20241024T130000
 LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Trauma-Informed Care: Mindfully Serving Patients and the 
+ Community
+DTSTART;TZID=America/Chicago:20241121T180000
+DTEND;TZID=America/Chicago:20241121T190000
+LOCATION:https://bcm.zoom.us/j/91240724009?pwd=BO8wxezCyxdMF8ot0E2JjNc0xcL
+ 6Lu.1
 END:VEVENT
 END:VCALENDAR
