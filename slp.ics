@@ -1,5 +1,12 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:Justice InvolvEd Introduction Meeting and Training
+DTSTART;TZID=America/Chicago:20240919T170000
+DTEND;TZID=America/Chicago:20240919T190000
+LOCATION:https://bcm.zoom.us/j/98130526834?pwd=Pc0nUZslaBe7t7VBb7g8NFZpN0i
+ LnO.1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PHIG x AADMD x GOBIG: Providing ObGyn Care to Patients with Intell
  ectual and Developmental Disabilities
 DTSTART;TZID=America/Chicago:20240926T190000
@@ -34,9 +41,53 @@ LOCATION:https://us05web.zoom.us/j/84407334612?pwd=dh939eD0gQqm3bcAMbaDygp
  n5IGuhD.1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anti-Human Trafficking Workshop for Clinical Rotations
+DTSTART;TZID=America/Chicago:20241017T120000
+DTEND;TZID=America/Chicago:20241017T130000
+LOCATION:https://bcm.zoom.us/j/91909865890?pwd=xGHiAnKtUpbzQ0HHbimu4D6DOgt
+ YAx.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Equity and Respect in Healthcare Engagement by Dr. Faith Fletcher
+DTSTART;TZID=America/Chicago:20241021T120000
+DTEND;TZID=America/Chicago:20241021T130000
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journal Club: Toxocara in Houston and Associated SDOH
+DTSTART;TZID=America/Chicago:20241023T170000
+DTEND;TZID=America/Chicago:20241023T180000
+LOCATION:https://bcm.zoom.us/j/91934419618?pwd=UaklwgX1O6bzUVzAUJVPHqbbo2S
+ k9Z.1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International CSIoH Speaker event
 DTSTART;TZID=America/Chicago:20241024T120000
 DTEND;TZID=America/Chicago:20241024T130000
+LOCATION:Mayborn Auditorium 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Responding to Intimate Partner Violence and Sexual Assault
+DTSTART;TZID=America/Chicago:20241029T183000
+DTEND;TZID=America/Chicago:20241029T193000
+LOCATION:https://bcm.zoom.us/j/99737115359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siempre Unidos Medical Spanish Workshop - History Taking
+DTSTART;TZID=America/Chicago:20241030T180000
+DTEND;TZID=America/Chicago:20241030T190000
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seminar on Care for Adolescents with Disabilities by Dr. Kemere
+DTSTART;TZID=America/Chicago:20241111T120000
+DTEND;TZID=America/Chicago:20241111T130000
+LOCATION:https://bcm.zoom.us/j/95584734372
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siempre Unidos Medical Spanish Workshop - Physical Exam
+DTSTART;TZID=America/Chicago:20241112T180000
+DTEND;TZID=America/Chicago:20241112T190000
 LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
@@ -46,6 +97,12 @@ DTSTART;TZID=America/Chicago:20241121T180000
 DTEND;TZID=America/Chicago:20241121T190000
 LOCATION:https://bcm.zoom.us/j/91240724009?pwd=BO8wxezCyxdMF8ot0E2JjNc0xcL
  6Lu.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Public Health Interest Group convo with Dr. Ricondo
+DTSTART;TZID=America/Chicago:20241121T183000
+DTEND;TZID=America/Chicago:20241121T193000
+LOCATION:https://bcm.zoom.us/j/97212053296
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HOMES Student Group Journal Club
@@ -73,5 +130,11 @@ DTSTART;TZID=America/Chicago:20241205T120000
 DTEND;TZID=America/Chicago:20241205T130000
 LOCATION:https://bcm.zoom.us/j/93102918628?pwd=fbb8FybN7VTbf2PHrb9a7Hf6oY5
  3wH.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHIG: Care of the Immigrant Child with Dr. Karla Fredricks
+DTSTART;TZID=America/Chicago:20241205T120000
+DTEND;TZID=America/Chicago:20241205T130000
+LOCATION:https://bcm.zoom.us/j/97938652980
 END:VEVENT
 END:VCALENDAR
