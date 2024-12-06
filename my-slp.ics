@@ -92,10 +92,4 @@ DTEND;TZID=America/Chicago:20241121T190000
 LOCATION:https://bcm.zoom.us/j/91240724009?pwd=BO8wxezCyxdMF8ot0E2JjNc0xcL
  6Lu.1
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHIG: Care of the Immigrant Child with Dr. Karla Fredricks
-DTSTART;TZID=America/Chicago:20241205T120000
-DTEND;TZID=America/Chicago:20241205T130000
-LOCATION:https://bcm.zoom.us/j/97938652980
-END:VEVENT
 END:VCALENDAR
