@@ -1063,30 +1063,9 @@ LOCATION:Anatomy Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clinical Skills Assessment #4 HX of Chronic Illness and MSK w/PEN 
- (Houston Only)
-DTSTART;TZID=America/Chicago:20250203T140000
-DTEND;TZID=America/Chicago:20250203T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #4 HX of Chronic Illness and MSK w/PEN 
  (Houston and Temple)
 DTSTART;TZID=America/Chicago:20250204T080000
 DTEND;TZID=America/Chicago:20250204T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #4 HX of Chronic Illness and MSK w/PEN 
- (Houston Only)
-DTSTART;TZID=America/Chicago:20250205T080000
-DTEND;TZID=America/Chicago:20250205T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #4 HX of Chronic Illness and MSK w/PEN 
- (Houston Only)
-DTSTART;TZID=America/Chicago:20250206T080000
-DTEND;TZID=America/Chicago:20250206T170000
 LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
