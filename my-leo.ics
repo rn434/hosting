@@ -858,12 +858,6 @@ DTEND;VALUE=DATE:20250119
 LOCATION:Virtual - Asynchronous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Day 
-DTSTART;TZID=America/Chicago:20250121T173000
-DTEND;TZID=America/Chicago:20250121T200000
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Common Musculoskeletal Injuries
 DTSTART;TZID=America/Chicago:20250122T080000
 DTEND;TZID=America/Chicago:20250122T085000
@@ -916,12 +910,6 @@ SUMMARY:Gross Anatomy LAB: Gluteal Region and Thigh
 DTSTART;TZID=America/Chicago:20250123T100000
 DTEND;TZID=America/Chicago:20250123T105000
 LOCATION:Anatomy Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Musculoskeletal Shoulder/Knee/ Back/Hand and Skin
-DTSTART;TZID=America/Chicago:20250123T130000
-DTEND;TZID=America/Chicago:20250123T170000
-LOCATION:7300 Bosque Blvd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inherited Musculoskeletal Disorders
@@ -1111,12 +1099,6 @@ SUMMARY:SIM Experience: Pelvic &amp\\\; Breast Exam learning activity (for
 DTSTART;TZID=America/Chicago:20250219T130000
 DTEND;TZID=America/Chicago:20250219T170000
 LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Abdominal/GI system
-DTSTART;TZID=America/Chicago:20250220T130000
-DTEND;TZID=America/Chicago:20250220T170000
-LOCATION:7300 Bosque Blvd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abdomen/Pelvis Workshop (Both Houston &amp\\\; Temple)
