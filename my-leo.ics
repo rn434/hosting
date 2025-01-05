@@ -1,23 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Blood Pressure Pharmacology
-DTSTART;VALUE=DATE:20241103
-DTEND;VALUE=DATE:20241103
-LOCATION:Virtual - Asynchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roles & Responsibilities of Various Healthcare Providers
-DTSTART;TZID=America/Chicago:20241105T100000
-DTEND;TZID=America/Chicago:20241105T105000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Urologic Systems Diagnostics
-DTSTART;TZID=America/Chicago:20241105T110000
-DTEND;TZID=America/Chicago:20241105T115000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Renal Stones and Masses
 DTSTART;TZID=America/Chicago:20241106T080000
 DTEND;TZID=America/Chicago:20241106T085000
@@ -1132,6 +1114,13 @@ SUMMARY:EGGS Physical Exam & Verbal Patient Presentation
 DTSTART;TZID=America/Chicago:20250305T141000
 DTEND;TZID=America/Chicago:20250305T155000
 LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIM Experience: Rectal &amp\\\; Male GU Exam learning activity (fo
+ rmative)
+DTSTART;TZID=America/Chicago:20250306T080000
+DTEND;TZID=America/Chicago:20250306T120000
+LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CV and Pulmonary Abnormals
