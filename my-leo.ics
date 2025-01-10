@@ -1073,6 +1073,19 @@ DTEND;TZID=America/Chicago:20250306T120000
 LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
+DTSTART;TZID=America/Chicago:20250311T080000
+DTEND;TZID=America/Chicago:20250311T103000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
+ )
+DTSTART;TZID=America/Chicago:20250311T130000
+DTEND;TZID=America/Chicago:20250311T170000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CV and Pulmonary Abnormals
 DTSTART;TZID=America/Chicago:20241022T130000
 DTEND;TZID=America/Chicago:20241022T142000
