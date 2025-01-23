@@ -1543,6 +1543,20 @@ DTEND;TZID=America/Chicago:20250321T150000
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital 
+ Signs w/VPP (Both Houston & Temple)
+DTSTART;TZID=America/Chicago:20250324T080000
+DTEND;TZID=America/Chicago:20250324T120000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital 
+ Signs w/VPP (Both Houston & Temple)
+DTSTART;TZID=America/Chicago:20250324T130000
+DTEND;TZID=America/Chicago:20250324T170000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CV and Pulmonary Abnormals
 DTSTART;TZID=America/Chicago:20241022T130000
 DTEND;TZID=America/Chicago:20241022T142000
