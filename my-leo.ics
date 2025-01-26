@@ -1577,6 +1577,31 @@ DTEND;TZID=America/Chicago:20250325T170000
 LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital 
+ Signs w/VPP (Houston Campus Only)
+DTSTART;TZID=America/Chicago:20250327T080000
+DTEND;TZID=America/Chicago:20250327T120000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abdomen/Pelvis Assessment (Both Houston & Temple)
+DTSTART;TZID=America/Chicago:20250327T080000
+DTEND;TZID=America/Chicago:20250327T120000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abdomen/Pelvis Assessment (Both Houston & Temple)
+DTSTART;TZID=America/Chicago:20250327T130000
+DTEND;TZID=America/Chicago:20250327T170000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abdomen/Pelvis Assessment (Houston Campus Only)
+DTSTART;TZID=America/Chicago:20250327T130000
+DTEND;TZID=America/Chicago:20250327T170000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CV and Pulmonary Abnormals
 DTSTART;TZID=America/Chicago:20241022T130000
 DTEND;TZID=America/Chicago:20241022T142000
