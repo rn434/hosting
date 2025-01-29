@@ -735,13 +735,6 @@ DTEND;TZID=America/Chicago:20250203T170000
 LOCATION:Anatomy Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #4 HX of Chronic Illness and MSK w/PEN 
- (Houston and Temple)
-DTSTART;TZID=America/Chicago:20250204T080000
-DTEND;TZID=America/Chicago:20250204T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: Assessment 2 AM
 DTSTART;TZID=America/Chicago:20250207T090000
 DTEND;TZID=America/Chicago:20250207T100000
@@ -1551,39 +1544,6 @@ DTEND;TZID=America/Chicago:20250324T170000
 LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital 
- Signs w/VPP (Houston Campus Only)
-DTSTART;TZID=America/Chicago:20250325T080000
-DTEND;TZID=America/Chicago:20250325T110000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Abdomen/Pelvis Assessment (Houston Campus Only)
-DTSTART;TZID=America/Chicago:20250325T080000
-DTEND;TZID=America/Chicago:20250325T120000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital 
- Signs w/VPP (Houston Campus Only)
-DTSTART;TZID=America/Chicago:20250325T130000
-DTEND;TZID=America/Chicago:20250325T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Abdomen/Pelvis Assessment (Houston Campus Only)
-DTSTART;TZID=America/Chicago:20250325T130000
-DTEND;TZID=America/Chicago:20250325T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital 
- Signs w/VPP (Houston Campus Only)
-DTSTART;TZID=America/Chicago:20250327T080000
-DTEND;TZID=America/Chicago:20250327T120000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Abdomen/Pelvis Assessment (Both Houston & Temple)
 DTSTART;TZID=America/Chicago:20250327T080000
 DTEND;TZID=America/Chicago:20250327T120000
@@ -1591,12 +1551,6 @@ LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abdomen/Pelvis Assessment (Both Houston & Temple)
-DTSTART;TZID=America/Chicago:20250327T130000
-DTEND;TZID=America/Chicago:20250327T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Abdomen/Pelvis Assessment (Houston Campus Only)
 DTSTART;TZID=America/Chicago:20250327T130000
 DTEND;TZID=America/Chicago:20250327T170000
 LOCATION:Simulation Lab
@@ -1636,5 +1590,11 @@ SUMMARY:POCUS Cardiac/Pulmonary Assessment
 DTSTART;TZID=America/Chicago:20241210T125000
 DTEND;TZID=America/Chicago:20241210T133000
 LOCATION:MEB 158
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinical Skills Assessment #4 HX of Chronic Illness and MSK w/PEN
+DTSTART;TZID=America/Chicago:20250204T102000
+DTEND;TZID=America/Chicago:20250204T115000
+LOCATION:Simulation Lab
 END:VEVENT
 END:VCALENDAR
