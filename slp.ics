@@ -164,6 +164,20 @@ DTEND;TZID=America/Chicago:20240122T190000
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Creative Rejuvenation: Reimagining the United States Healthcare Sy
+ stem
+DTSTART;TZID=America/Chicago:20240130T160000
+DTEND;TZID=America/Chicago:20240130T170000
+LOCATION:by request for temple only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hepatitis B talk w/ Dr. Lee (APAMSA)
+DTSTART;TZID=America/Chicago:20240206T183000
+DTEND;TZID=America/Chicago:20240206T193000
+LOCATION:by request for temple: https://docs.google.com/forms/d/1JFKJuuJyg
+ KceK2gSN6woWhl2JyoCPAaX9Bys3hMQ63Q/viewform?edit_requested=true 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Reproductive Care in the Criminal Justice System
 DTSTART;TZID=America/Chicago:20250218T120000
 DTEND;TZID=America/Chicago:20250218T130000
