@@ -178,6 +178,12 @@ LOCATION:by request for temple: https://docs.google.com/forms/d/1JFKJuuJyg
  KceK2gSN6woWhl2JyoCPAaX9Bys3hMQ63Q/viewform?edit_requested=true 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Moms to Moms: Financial Resources for Families
+DTSTART;TZID=America/Chicago:20250212T120000
+DTEND;TZID=America/Chicago:20250212T130000
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Reproductive Care in the Criminal Justice System
 DTSTART;TZID=America/Chicago:20250218T120000
 DTEND;TZID=America/Chicago:20250218T130000
@@ -201,11 +207,5 @@ SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 4
 DTSTART;TZID=America/Chicago:20250411T120000
 DTEND;TZID=America/Chicago:20250411T130000
 LOCATION:see above
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moms to Moms: Financial Resources for Families
-DTSTART;TZID=America/Chicago:20250212T120000
-DTEND;TZID=America/Chicago:20250212T130000
-LOCATION:
 END:VEVENT
 END:VCALENDAR
