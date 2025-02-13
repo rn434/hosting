@@ -781,7 +781,8 @@ DTEND;TZID=America/Chicago:20250219T170000
 LOCATION:7300 Bosque Blvd
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
+SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
+ )
 DTSTART;TZID=America/Chicago:20250219T130000
 DTEND;TZID=America/Chicago:20250219T170000
 LOCATION:Simulation Lab
@@ -1132,8 +1133,7 @@ DTEND;VALUE=DATE:20250309
 LOCATION:Asynchronous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
- )
+SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
 DTSTART;TZID=America/Chicago:20250311T130000
 DTEND;TZID=America/Chicago:20250311T170000
 LOCATION:Simulation Lab
@@ -1169,15 +1169,13 @@ DTEND;TZID=America/Chicago:20250312T170000
 LOCATION:7300 Bosque Blvd
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
- )
+SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
 DTSTART;TZID=America/Chicago:20250312T130000
 DTEND;TZID=America/Chicago:20250312T170000
 LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
- )
+SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
 DTSTART;TZID=America/Chicago:20250313T080000
 DTEND;TZID=America/Chicago:20250313T170000
 LOCATION:Simulation Lab
@@ -1207,8 +1205,7 @@ DTEND;TZID=America/Chicago:20250314T115000
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
- )
+SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
 DTSTART;TZID=America/Chicago:20250314T130000
 DTEND;TZID=America/Chicago:20250314T170000
 LOCATION:Simulation Lab
