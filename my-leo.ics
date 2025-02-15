@@ -744,13 +744,6 @@ DTEND;TZID=America/Chicago:20250218T115000
 LOCATION:Virtual - Synchronous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
- )
-DTSTART;TZID=America/Chicago:20250218T130000
-DTEND;TZID=America/Chicago:20250218T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Small Bowel and Colon
 DTSTART;TZID=America/Chicago:20250219T080000
 DTEND;TZID=America/Chicago:20250219T085000
@@ -779,13 +772,6 @@ SUMMARY:Abdominal/GI system
 DTSTART;TZID=America/Chicago:20250219T130000
 DTEND;TZID=America/Chicago:20250219T170000
 LOCATION:7300 Bosque Blvd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
- )
-DTSTART;TZID=America/Chicago:20250219T130000
-DTEND;TZID=America/Chicago:20250219T170000
-LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Assessment 1 AM
@@ -852,13 +838,6 @@ SUMMARY:Abdominal Imaging
 DTSTART;VALUE=DATE:20250223
 DTEND;VALUE=DATE:20250223
 LOCATION:Asynchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
- )
-DTSTART;TZID=America/Chicago:20250224T130000
-DTEND;TZID=America/Chicago:20250224T170000
-LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cirrhosis
@@ -976,12 +955,6 @@ DTEND;TZID=America/Chicago:20250303T160000
 LOCATION:Anatomy Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
-DTSTART;TZID=America/Chicago:20250304T080000
-DTEND;TZID=America/Chicago:20250304T103000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adrenal and Menstrual Disorders
 DTSTART;TZID=America/Chicago:20250304T110000
 DTEND;TZID=America/Chicago:20250304T115000
@@ -1004,12 +977,6 @@ SUMMARY:Gastrointestinal Infections
 DTSTART;VALUE=DATE:20250302
 DTEND;VALUE=DATE:20250302
 LOCATION:Asynchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
-DTSTART;TZID=America/Chicago:20250304T130000
-DTEND;TZID=America/Chicago:20250304T170000
-LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gastrointestinal Malignancies
@@ -1046,13 +1013,6 @@ SUMMARY:EGGS Physical Exam & Verbal Patient Presentation
 DTSTART;TZID=America/Chicago:20250305T141000
 DTEND;TZID=America/Chicago:20250305T155000
 LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
- )
-DTSTART;TZID=America/Chicago:20250306T080000
-DTEND;TZID=America/Chicago:20250306T120000
-LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Assessment 2 AM
@@ -1103,12 +1063,6 @@ DTEND;TZID=America/Chicago:20250310T160000
 LOCATION:Anatomy Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
-DTSTART;TZID=America/Chicago:20250311T080000
-DTEND;TZID=America/Chicago:20250311T103000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Routine Pregnancy and Labor
 DTSTART;TZID=America/Chicago:20250311T100000
 DTEND;TZID=America/Chicago:20250311T105000
@@ -1131,12 +1085,6 @@ SUMMARY:Examining and Addressing Bias
 DTSTART;VALUE=DATE:20250309
 DTEND;VALUE=DATE:20250309
 LOCATION:Asynchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
-DTSTART;TZID=America/Chicago:20250311T130000
-DTEND;TZID=America/Chicago:20250311T170000
-LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Complications of Labor
@@ -1169,18 +1117,6 @@ DTEND;TZID=America/Chicago:20250312T170000
 LOCATION:7300 Bosque Blvd
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
-DTSTART;TZID=America/Chicago:20250312T130000
-DTEND;TZID=America/Chicago:20250312T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
-DTSTART;TZID=America/Chicago:20250313T080000
-DTEND;TZID=America/Chicago:20250313T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sexually Transmitted Diseases
 DTSTART;TZID=America/Chicago:20250314T080000
 DTEND;TZID=America/Chicago:20250314T085000
@@ -1203,12 +1139,6 @@ SUMMARY:Case 2: Gynecologic Cancers (#8)
 DTSTART;TZID=America/Chicago:20250314T110000
 DTEND;TZID=America/Chicago:20250314T115000
 LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
-DTSTART;TZID=America/Chicago:20250314T130000
-DTEND;TZID=America/Chicago:20250314T170000
-LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Genitourinary System Disorders
@@ -1601,6 +1531,12 @@ BEGIN:VEVENT
 SUMMARY:Abdomen/Pelvis Workshop
 DTSTART;TZID=America/Chicago:20250224T130000
 DTEND;TZID=America/Chicago:20250224T143000
-LOCATION:Conference Center A200
+LOCATION:Conference Center\, A200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUTA/GTA Session
+DTSTART;TZID=America/Chicago:20250227T080000
+DTEND;TZID=America/Chicago:20250227T120000
+LOCATION:Temple College Pavillion\, Room 2800
 END:VEVENT
 END:VCALENDAR
