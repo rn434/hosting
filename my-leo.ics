@@ -1480,6 +1480,13 @@ DTEND;TZID=America/Chicago:20250416T170000
 LOCATION:7300 Bosque Blvd
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital S
+ igns w/VPP  Remediation (Both Houston & Temple)
+DTSTART;TZID=America/Chicago:20250417T080000
+DTEND;TZID=America/Chicago:20250417T170000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CV and Pulmonary Abnormals
 DTSTART;TZID=America/Chicago:20241022T130000
 DTEND;TZID=America/Chicago:20241022T142000
