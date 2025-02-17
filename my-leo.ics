@@ -979,6 +979,13 @@ DTEND;VALUE=DATE:20250302
 LOCATION:Asynchronous
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SIM Experience: Rectal & Male GU Exam learning activity (formative
+ )
+DTSTART;TZID=America/Chicago:20250304T130000
+DTEND;TZID=America/Chicago:20250304T170000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gastrointestinal Malignancies
 DTSTART;TZID=America/Chicago:20250305T080000
 DTEND;TZID=America/Chicago:20250305T085000
@@ -1115,6 +1122,12 @@ SUMMARY:EGGS Physical Exam and Verbal Patient Presentation
 DTSTART;TZID=America/Chicago:20250312T130000
 DTEND;TZID=America/Chicago:20250312T170000
 LOCATION:7300 Bosque Blvd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIM Experience: Pelvic & Breast Exam learning activity (formative)
+DTSTART;TZID=America/Chicago:20250313T080000
+DTEND;TZID=America/Chicago:20250313T120000
+LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sexually Transmitted Diseases
