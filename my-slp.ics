@@ -24,13 +24,13 @@ BEGIN:VEVENT
 SUMMARY:MCSD Lecture - Temple
 DTSTART;TZID=America/Chicago:20241004T170000
 DTEND;TZID=America/Chicago:20241004T180000
-LOCATION:Mayborn Auditorium 
+LOCATION:In-person event
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MCSD Breakfast Talk and Introduction - Temple
 DTSTART;TZID=America/Chicago:20241005T081500
 DTEND;TZID=America/Chicago:20241005T084500
-LOCATION:MEC Lobby
+LOCATION:In-person event
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Socio-Geographic History of Houston and its Implication on Tod
@@ -48,12 +48,6 @@ LOCATION:https://bcm.zoom.us/j/91909865890?pwd=xGHiAnKtUpbzQ0HHbimu4D6DOgt
  YAx.1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Equity and Respect in Healthcare Engagement by Dr. Faith Fletcher
-DTSTART;TZID=America/Chicago:20241021T120000
-DTEND;TZID=America/Chicago:20241021T130000
-LOCATION:TBD
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Journal Club: Toxocara in Houston and Associated SDOH
 DTSTART;TZID=America/Chicago:20241023T170000
 DTEND;TZID=America/Chicago:20241023T180000
@@ -67,22 +61,10 @@ DTEND;TZID=America/Chicago:20241024T130000
 LOCATION:Mayborn Auditorium 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Siempre Unidos Medical Spanish Workshop - History Taking
-DTSTART;TZID=America/Chicago:20241030T180000
-DTEND;TZID=America/Chicago:20241030T190000
-LOCATION:TBD
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Seminar on Care for Adolescents with Disabilities by Dr. Kemere
 DTSTART;TZID=America/Chicago:20241111T120000
 DTEND;TZID=America/Chicago:20241111T130000
 LOCATION:https://bcm.zoom.us/j/95584734372
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Siempre Unidos Medical Spanish Workshop - Physical Exam
-DTSTART;TZID=America/Chicago:20241112T180000
-DTEND;TZID=America/Chicago:20241112T190000
-LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Trauma-Informed Care: Mindfully Serving Patients and the 
@@ -162,7 +144,11 @@ BEGIN:VEVENT
 SUMMARY:DIG: Skin of Color Game Night 
 DTSTART;TZID=America/Chicago:20250228T120000
 DTEND;TZID=America/Chicago:20250228T130000
-LOCATION:TBD
+LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
+ s://scaetc.unm.edu/scaetc/event/?ER_ID=9599). Please use your school email
+  address to register! You will receive a calendar invitation with a zoom l
+ ink after you have registered!\nQuestions? Reach out to HoustonAETC@bcm.ed
+ u
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 3
