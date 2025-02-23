@@ -906,13 +906,6 @@ DTEND;TZID=America/Chicago:20250228T115000
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #4 HX of Chronic Illness and MSK w/PEN 
- Remediation (Houston & Temple)
-DTSTART;TZID=America/Chicago:20250228T130000
-DTEND;TZID=America/Chicago:20250228T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adrenal Function and Dysfunction
 DTSTART;TZID=America/Chicago:20250303T080000
 DTEND;TZID=America/Chicago:20250303T085000
