@@ -1,17 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Basics of Biologic Immunotherapies
-DTSTART;TZID=America/Chicago:20250107T100000
-DTEND;TZID=America/Chicago:20250107T105000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical-Pathologic Correlations of the Immune System
-DTSTART;TZID=America/Chicago:20250107T110000
-DTEND;TZID=America/Chicago:20250107T115000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hypersensitivity Reactions and Autoimmune Diseases
 DTSTART;TZID=America/Chicago:20250108T080000
 DTEND;TZID=America/Chicago:20250108T085000
