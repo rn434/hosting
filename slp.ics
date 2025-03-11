@@ -199,7 +199,11 @@ BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 2
 DTSTART;TZID=America/Chicago:20250228T120000
 DTEND;TZID=America/Chicago:20250228T130000
-LOCATION:see above
+LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
+ s://scaetc.unm.edu/scaetc/event/?ER_ID=9599). Please use your school email
+  address to register! You will receive a calendar invitation with a zoom l
+ ink after you have registered!\nQuestions? Reach out to HoustonAETC@bcm.ed
+ u
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 3
