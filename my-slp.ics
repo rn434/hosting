@@ -151,6 +151,12 @@ LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
  u
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Genomics: Its Ethics and Its Future
+DTSTART;TZID=America/Chicago:20250321T090000
+DTEND;TZID=America/Chicago:20250321T100000
+LOCATION:Upon request to clarice.jacobson@bcm.edu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 2
 DTSTART;TZID=America/Chicago:20250228T120000
 DTEND;TZID=America/Chicago:20250228T130000
@@ -177,11 +183,5 @@ SUMMARY:Temple SLP Symposium Guest Speaker
 DTSTART;TZID=America/Chicago:20250410T120000
 DTEND;TZID=America/Chicago:20250410T130000
 LOCATION:N/A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Genomics: Its Ethics and Its Future
-DTSTART;TZID=America/Chicago:20250321T090000
-DTEND;TZID=America/Chicago:20250321T100000
-LOCATION:Upon request to clarice.jacobson@bcm.edu
 END:VEVENT
 END:VCALENDAR
