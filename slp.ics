@@ -24,13 +24,13 @@ BEGIN:VEVENT
 SUMMARY:MCSD Lecture - Temple
 DTSTART;TZID=America/Chicago:20241004T170000
 DTEND;TZID=America/Chicago:20241004T180000
-LOCATION:In-person event
+LOCATION:Mayborn Auditorium 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MCSD Breakfast Talk and Introduction - Temple
 DTSTART;TZID=America/Chicago:20241005T081500
 DTEND;TZID=America/Chicago:20241005T084500
-LOCATION:In-person event
+LOCATION:MEC Lobby
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Socio-Geographic History of Houston and its Implication on Tod
@@ -227,6 +227,6 @@ BEGIN:VEVENT
 SUMMARY:Temple SLP Symposium Guest Speaker
 DTSTART;TZID=America/Chicago:20250410T120000
 DTEND;TZID=America/Chicago:20250410T130000
-LOCATION:N/A
+LOCATION:Mayborn Auditorium
 END:VEVENT
 END:VCALENDAR
