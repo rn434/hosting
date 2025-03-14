@@ -24,13 +24,13 @@ BEGIN:VEVENT
 SUMMARY:MCSD Lecture - Temple
 DTSTART;TZID=America/Chicago:20241004T170000
 DTEND;TZID=America/Chicago:20241004T180000
-LOCATION:In-person event
+LOCATION:Mayborn Auditorium 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MCSD Breakfast Talk and Introduction - Temple
 DTSTART;TZID=America/Chicago:20241005T081500
 DTEND;TZID=America/Chicago:20241005T084500
-LOCATION:In-person event
+LOCATION:MEC Lobby
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Socio-Geographic History of Houston and its Implication on Tod
@@ -160,28 +160,30 @@ BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 2
 DTSTART;TZID=America/Chicago:20250228T120000
 DTEND;TZID=America/Chicago:20250228T130000
-LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
- s://scaetc.unm.edu/scaetc/event/?ER_ID=9599). Please use your school email
-  address to register! You will receive a calendar invitation with a zoom l
- ink after you have registered!\nQuestions? Reach out to HoustonAETC@bcm.ed
- u
+LOCATION:https://bcm.zoom.us/w/92777207020?tk=V6Olyb5w-FPv2HfFqNwsKr40_Omb
+ V1CW2YXtm0rWaww.DQcAAAAVmfPU7BZxOS1QUGdrcVE4dVluS3lzejNfakR3AAAAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ImONKOhoWw1gu0KGryL7kuQmXRq1Sq.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 3
 DTSTART;TZID=America/Chicago:20250328T120000
 DTEND;TZID=America/Chicago:20250328T130000
-LOCATION:see above
+LOCATION:https://bcm.zoom.us/w/92777207020?tk=V6Olyb5w-FPv2HfFqNwsKr40_Omb
+ V1CW2YXtm0rWaww.DQcAAAAVmfPU7BZxOS1QUGdrcVE4dVluS3lzejNfakR3AAAAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ImONKOhoWw1gu0KGryL7kuQmXRq1Sq.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 4
 DTSTART;TZID=America/Chicago:20250411T120000
 DTEND;TZID=America/Chicago:20250411T130000
-LOCATION:see above
+LOCATION:https://bcm.zoom.us/w/92777207020?tk=V6Olyb5w-FPv2HfFqNwsKr40_Omb
+ V1CW2YXtm0rWaww.DQcAAAAVmfPU7BZxOS1QUGdrcVE4dVluS3lzejNfakR3AAAAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ImONKOhoWw1gu0KGryL7kuQmXRq1Sq.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Temple SLP Symposium Guest Speaker
 DTSTART;TZID=America/Chicago:20250410T120000
 DTEND;TZID=America/Chicago:20250410T130000
-LOCATION:N/A
+LOCATION:Mayborn Auditorium
 END:VEVENT
 END:VCALENDAR
