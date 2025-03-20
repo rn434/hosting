@@ -1579,6 +1579,20 @@ DTEND;TZID=America/Chicago:20250516T150000
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clinical Skills Assessment #6A and #6B Neuro HX and PE exam w/PEN\
+ \\; HEENT  w/VPP (Both Houston & Temple)
+DTSTART;TZID=America/Chicago:20250519T080000
+DTEND;TZID=America/Chicago:20250519T110000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinical Skills Assessment #6A and #6B Neuro HX and PE exam w/PEN\
+ \\; HEENT  w/VPP (Both Houston & Temple)
+DTSTART;TZID=America/Chicago:20250519T130000
+DTEND;TZID=America/Chicago:20250519T170000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CV and Pulmonary Abnormals
 DTSTART;TZID=America/Chicago:20241022T130000
 DTEND;TZID=America/Chicago:20241022T142000
