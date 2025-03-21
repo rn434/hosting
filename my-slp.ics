@@ -152,8 +152,8 @@ LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Genomics: Its Ethics and Its Future
-DTSTART;TZID=America/Chicago:20250321T090000
-DTEND;TZID=America/Chicago:20250321T100000
+DTSTART;TZID=America/Chicago:20250321T120000
+DTEND;TZID=America/Chicago:20250321T130000
 LOCATION:Upon request to clarice.jacobson@bcm.edu
 END:VEVENT
 BEGIN:VEVENT
