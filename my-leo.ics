@@ -1,41 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Common Musculoskeletal Injuries
-DTSTART;TZID=America/Chicago:20250122T080000
-DTEND;TZID=America/Chicago:20250122T085000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Common Musculoskeletal Injuries 
-DTSTART;TZID=America/Chicago:20250122T090000
-DTEND;TZID=America/Chicago:20250122T092500
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Septic Arthritis and Osteomyelitis
-DTSTART;TZID=America/Chicago:20250122T092500
-DTEND;TZID=America/Chicago:20250122T095000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Septic Arthritis and Osteomyelitis
-DTSTART;TZID=America/Chicago:20250122T100000
-DTEND;TZID=America/Chicago:20250122T105000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Case 1: Systemic Lupus Erythematosus (6)
-DTSTART;TZID=America/Chicago:20250122T110000
-DTEND;TZID=America/Chicago:20250122T115000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Musculoskeletal Shoulder/Knee/ Back/Hand and Skin
-DTSTART;TZID=America/Chicago:20250122T130000
-DTEND;TZID=America/Chicago:20250122T170000
-LOCATION:7300 Bosque Blvd
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gross Anatomy LAB: Gluteal Region and Thigh
 DTSTART;TZID=America/Chicago:20250123T080000
 DTEND;TZID=America/Chicago:20250123T085000
