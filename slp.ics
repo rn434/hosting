@@ -236,19 +236,17 @@ DTEND;TZID=America/Chicago:20250328T130000
 LOCATION:see above
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Justice InvolveED: Reproductive Access in the Criminal Justice Sys
- tem
-DTSTART;TZID=America/Chicago:20250329T120000
-DTEND;TZID=America/Chicago:20250329T130000
-LOCATION:https://bcm.zoom.us/j/92663076378?pwd=jOw5iOiu6TBA2MmPla13yr2bYrP
- Fkh.1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:APAMSA: Asian American History Talk
 DTSTART;TZID=America/Chicago:20250403T180000
 DTEND;TZID=America/Chicago:20250403T190000
 LOCATION:https://bcm.zoom.us/j/91633444016?pwd=hJD3mAdzdQnd8tMQwCKxLK3LNmF
  EXO.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston TX Maternal Mortality and Morbidity Committee Talk
+DTSTART;TZID=America/Chicago:20250410T160000
+DTEND;TZID=America/Chicago:20250410T170000
+LOCATION:Houston Campus\, M 321
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Temple SLP Symposium Guest Speaker
@@ -261,5 +259,13 @@ SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 4
 DTSTART;TZID=America/Chicago:20250411T120000
 DTEND;TZID=America/Chicago:20250411T130000
 LOCATION:see above
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Justice InvolveED: Reproductive Access in the Criminal Justice Sys
+ tem
+DTSTART;TZID=America/Chicago:20250429T120000
+DTEND;TZID=America/Chicago:20250429T130000
+LOCATION:https://bcm.zoom.us/j/92663076378?pwd=jOw5iOiu6TBA2MmPla13yr2bYrP
+ Fkh.1
 END:VEVENT
 END:VCALENDAR
