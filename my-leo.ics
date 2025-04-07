@@ -741,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:Anatomy: Gross Brain and Brain Slices
 DTSTART;TZID=America/Chicago:20250407T131000
 DTEND;TZID=America/Chicago:20250407T140000
-LOCATION:Anatomy Lab
+LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy: Gross Brain and Brain Slices
