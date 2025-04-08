@@ -218,19 +218,19 @@ LOCATION:https://bcm.zoom.us/w/92777207020?tk=V6Olyb5w-FPv2HfFqNwsKr40_Omb
  AAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ImONKOhoWw1gu0KGryL7kuQmXRq1Sq.1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ARGU-EBM Debate: "Do we currently overtreat infectious fever with 
+ antipyretics\, given the balance of adverse and beneficial effects of feve
+ r?"
+DTSTART;TZID=America/Chicago:20250414T190000
+DTEND;TZID=America/Chicago:20250414T203000
+LOCATION:McMillan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Justice InvolveED: Reproductive Access in the Criminal Justice Sys
  tem
 DTSTART;TZID=America/Chicago:20250429T120000
 DTEND;TZID=America/Chicago:20250429T130000
 LOCATION:https://bcm.zoom.us/j/92663076378?pwd=jOw5iOiu6TBA2MmPla13yr2bYrP
  Fkh.1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARGU-EBM Debate: "Do we currently overtreat infectious fever with 
- antipyretics\, given the balance of adverse and beneficial effects of feve
- r?"
-DTSTART;TZID=America/Chicago:20250414T190000
-DTEND;TZID=America/Chicago:20250414T203000
-LOCATION:Will provide soon
 END:VEVENT
 END:VCALENDAR
