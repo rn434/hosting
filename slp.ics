@@ -246,7 +246,8 @@ BEGIN:VEVENT
 SUMMARY:Houston TX Maternal Mortality and Morbidity Committee Talk
 DTSTART;TZID=America/Chicago:20250410T160000
 DTEND;TZID=America/Chicago:20250410T170000
-LOCATION:Houston Campus\, M 321
+LOCATION:Houston Campus\, M 321\; https://bcm.zoom.us/j/98274019241?pwd=IH
+ 1U1MELTWbbI6QoBNA4mUllHTxRyx.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Temple SLP Symposium Guest Speaker
