@@ -882,12 +882,6 @@ DTEND;TZID=America/Chicago:20250416T115000
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neurological Exam
-DTSTART;TZID=America/Chicago:20250416T130000
-DTEND;TZID=America/Chicago:20250416T170000
-LOCATION:7300 Bosque Blvd
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital S
  igns w/VPP  Remediation (Both Houston & Temple)
 DTSTART;TZID=America/Chicago:20250417T080000
