@@ -882,13 +882,6 @@ DTEND;TZID=America/Chicago:20250416T115000
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #5 Abdominal HX and PE exam\\\; Vital S
- igns w/VPP  Remediation (Both Houston & Temple)
-DTSTART;TZID=America/Chicago:20250417T080000
-DTEND;TZID=America/Chicago:20250417T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Assessment 1 AM
 DTSTART;TZID=America/Chicago:20250418T090000
 DTEND;TZID=America/Chicago:20250418T100000
