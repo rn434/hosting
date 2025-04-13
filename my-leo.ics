@@ -1,17 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Growth
-DTSTART;TZID=America/Chicago:20250211T100000
-DTEND;TZID=America/Chicago:20250211T105000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diabetes Insipidus and Hypothalamic Endocrine Disorders
-DTSTART;TZID=America/Chicago:20250211T110000
-DTEND;TZID=America/Chicago:20250211T115000
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hypothyroidism\, Thyroid Nodules\, and Cancer
 DTSTART;TZID=America/Chicago:20250212T080000
 DTEND;TZID=America/Chicago:20250212T085000
