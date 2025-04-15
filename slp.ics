@@ -283,4 +283,11 @@ DTSTART;TZID=America/Chicago:20250423T170000
 DTEND;TZID=America/Chicago:20250423T180000
 LOCATION:Houston N315\; Temple - Zoom
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Policy in Action: Collaborating with State Legislators for Change
+DTSTART;TZID=America/Chicago:20250424T133000
+DTEND;TZID=America/Chicago:20250424T143000
+LOCATION:Upon registration https://bcm.zoom.us/webinar/register/WN_wDWCVKC
+ oQOu63pVxb2exSg#/registration
+END:VEVENT
 END:VCALENDAR
