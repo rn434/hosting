@@ -247,4 +247,11 @@ DTEND;TZID=America/Chicago:20250424T143000
 LOCATION:Upon registration https://bcm.zoom.us/webinar/register/WN_wDWCVKC
  oQOu63pVxb2exSg#/registration
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physician Experiences in Global Health
+DTSTART;TZID=America/Chicago:20250514T120000
+DTEND;TZID=America/Chicago:20250514T130000
+LOCATION: https://bcm.zoom.us/j/91442445271?pwd=yUZx17ufnOKNh0ACTRaENH9MAE
+ M1aO.1
+END:VEVENT
 END:VCALENDAR
