@@ -744,38 +744,10 @@ DTEND;TZID=America/Chicago:20250516T150000
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #6A and #6B Neuro HX and PE exam w/PEN\
- \\; HEENT  w/VPP (Both Houston & Temple)
-DTSTART;TZID=America/Chicago:20250519T080000
-DTEND;TZID=America/Chicago:20250519T110000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #6A and #6B Neuro HX and PE exam w/PEN\
- \\; HEENT  w/VPP (Both Houston & Temple)
-DTSTART;TZID=America/Chicago:20250519T130000
-DTEND;TZID=America/Chicago:20250519T170000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Comprehensive Basic Science Self-Assessment (CBSSA)
 DTSTART;TZID=America/Chicago:20250521T083000
 DTEND;TZID=America/Chicago:20250521T140000
 LOCATION:MEC 210
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #6A and #6B Neuro HX and PE exam w/PEN\
- \\; HEENT  w/VPP (Both Houston & Temple)
-DTSTART;TZID=America/Chicago:20250522T080000
-DTEND;TZID=America/Chicago:20250522T110000
-LOCATION:Simulation Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Skills Assessment #6A and #6B Neuro HX and PE exam w/PEN\
- \\; HEENT  w/VPP (Both Houston & Temple)
-DTSTART;TZID=America/Chicago:20250522T130000
-DTEND;TZID=America/Chicago:20250522T170000
-LOCATION:Simulation Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orientation: Welcome to Integrated Systems
@@ -1391,5 +1363,12 @@ SUMMARY:Neurological Exam
 DTSTART;TZID=America/Chicago:20250415T083000
 DTEND;TZID=America/Chicago:20250415T120000
 LOCATION:Preceptor Site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinical Skills Assessment #6A and #6B Neuro HX and PE exam w/PEN\
+ \\; HEENT  w/VPP (Both Houston & Temple)
+DTSTART;TZID=America/Chicago:20250522T093000
+DTEND;TZID=America/Chicago:20250522T114500
+LOCATION:Simulation Lab
 END:VEVENT
 END:VCALENDAR
