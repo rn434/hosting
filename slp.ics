@@ -315,4 +315,23 @@ DTSTART;TZID=America/Chicago:20250519T180000
 DTEND;TZID=America/Chicago:20250519T190000
 LOCATION:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dermatologic Impact of Religious Coverings: Hair Loss and Beyond
+DTSTART;TZID=America/Chicago:20250528T120000
+DTEND;TZID=America/Chicago:20250528T130000
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Occupational and Environmental Skin Health in Marginalized Workers
+DTSTART;TZID=America/Chicago:20250611T120000
+DTEND;TZID=America/Chicago:20250611T130000
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cultural Sensitivity and Dermatologic Care for Refugee and Migrant
+  Communities
+DTSTART;TZID=America/Chicago:20250618T120000
+DTEND;TZID=America/Chicago:20250618T130000
+LOCATION:
+END:VEVENT
 END:VCALENDAR
