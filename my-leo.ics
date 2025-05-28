@@ -84,6 +84,12 @@ DTEND;TZID=America/Chicago:20250409T140000
 LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Neurological Exam (6)
+DTSTART;TZID=America/Chicago:20250409T141000
+DTEND;TZID=America/Chicago:20250409T155000
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Time Management and Work Life Balance
 DTSTART;TZID=America/Chicago:20250411T080000
 DTEND;TZID=America/Chicago:20250411T085000
@@ -286,6 +292,12 @@ SUMMARY:Mental Health\, Collateral History and Eye Exam
 DTSTART;TZID=America/Chicago:20250423T131000
 DTEND;TZID=America/Chicago:20250423T140000
 LOCATION:MEC 109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mental Health\, Collateral History and Eye Exam (7)
+DTSTART;TZID=America/Chicago:20250423T141000
+DTEND;TZID=America/Chicago:20250423T155000
+LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decision Making Capacity
@@ -502,6 +514,12 @@ SUMMARY: HENT Exam
 DTSTART;TZID=America/Chicago:20250507T131000
 DTEND;TZID=America/Chicago:20250507T140000
 LOCATION:MEC 109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HENT Exam (8)
+DTSTART;TZID=America/Chicago:20250507T141000
+DTEND;TZID=America/Chicago:20250507T155000
+LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disorders of the Basal Ganglia
@@ -1049,150 +1067,6 @@ SUMMARY:Implications of Abnormal Physical Exam Findings and Focused Histor
 DTSTART;TZID=America/Chicago:20250611T131000
 DTEND;TZID=America/Chicago:20250611T140000
 LOCATION:MEC 109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implications of Abnormal Physical Exam Findings
-DTSTART;TZID=America/Chicago:20250611T141000
-DTEND;TZID=America/Chicago:20250611T155000
-LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implications of Abnormal Physical Exam Findings
