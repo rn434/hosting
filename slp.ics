@@ -1,5 +1,26 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:Siempre Unidos Monthly Medical Spanish Workshop - OB/GYN and Urolo
+ gy
+DTSTART;TZID=America/Chicago:20240122T180000
+DTEND;TZID=America/Chicago:20240122T190000
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Rejuvenation: Reimagining the United States Healthcare Sy
+ stem
+DTSTART;TZID=America/Chicago:20240130T160000
+DTEND;TZID=America/Chicago:20240130T170000
+LOCATION:by request for temple only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hepatitis B talk w/ Dr. Lee (APAMSA)
+DTSTART;TZID=America/Chicago:20240206T183000
+DTEND;TZID=America/Chicago:20240206T193000
+LOCATION:by request for temple: https://docs.google.com/forms/d/1JFKJuuJyg
+ KceK2gSN6woWhl2JyoCPAaX9Bys3hMQ63Q/viewform?edit_requested=true 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Justice InvolvEd Introduction Meeting and Training
 DTSTART;TZID=America/Chicago:20240919T170000
 DTEND;TZID=America/Chicago:20240919T190000
@@ -139,27 +160,6 @@ DTEND;TZID=America/Chicago:20250122T130000
 LOCATION:in groupMe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Siempre Unidos Monthly Medical Spanish Workshop - OB/GYN and Urolo
- gy
-DTSTART;TZID=America/Chicago:20240122T180000
-DTEND;TZID=America/Chicago:20240122T190000
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Rejuvenation: Reimagining the United States Healthcare Sy
- stem
-DTSTART;TZID=America/Chicago:20240130T160000
-DTEND;TZID=America/Chicago:20240130T170000
-LOCATION:by request for temple only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hepatitis B talk w/ Dr. Lee (APAMSA)
-DTSTART;TZID=America/Chicago:20240206T183000
-DTEND;TZID=America/Chicago:20240206T193000
-LOCATION:by request for temple: https://docs.google.com/forms/d/1JFKJuuJyg
- KceK2gSN6woWhl2JyoCPAaX9Bys3hMQ63Q/viewform?edit_requested=true 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moms to Moms: Financial Resources for Families
 DTSTART;TZID=America/Chicago:20250212T120000
 DTEND;TZID=America/Chicago:20250212T130000
@@ -196,6 +196,16 @@ LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
  u
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 2
+DTSTART;TZID=America/Chicago:20250228T120000
+DTEND;TZID=America/Chicago:20250228T130000
+LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
+ s://scaetc.unm.edu/scaetc/event/?ER_ID=9599). Please use your school email
+  address to register! You will receive a calendar invitation with a zoom l
+ ink after you have registered!\nQuestions? Reach out to HoustonAETC@bcm.ed
+ u
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DIG: Jorunal Club
 DTSTART;TZID=America/Chicago:20250319T120000
 DTEND;TZID=America/Chicago:20250319T130000
@@ -218,16 +228,6 @@ SUMMARY:OBGYN Emergencies in the ER
 DTSTART;TZID=America/Chicago:20250326T180000
 DTEND;TZID=America/Chicago:20250326T190000
 LOCATION:MEB 144
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 2
-DTSTART;TZID=America/Chicago:20250228T120000
-DTEND;TZID=America/Chicago:20250228T130000
-LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
- s://scaetc.unm.edu/scaetc/event/?ER_ID=9599). Please use your school email
-  address to register! You will receive a calendar invitation with a zoom l
- ink after you have registered!\nQuestions? Reach out to HoustonAETC@bcm.ed
- u
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 3
@@ -270,14 +270,6 @@ DTEND;TZID=America/Chicago:20250414T203000
 LOCATION:McMillan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Justice InvolveED: Reproductive Access in the Criminal Justice Sys
- tem
-DTSTART;TZID=America/Chicago:20250429T120000
-DTEND;TZID=America/Chicago:20250429T130000
-LOCATION:https://bcm.zoom.us/j/92663076378?pwd=jOw5iOiu6TBA2MmPla13yr2bYrP
- Fkh.1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Siempre Unidos - Medical Spanish Workshop
 DTSTART;TZID=America/Chicago:20250423T170000
 DTEND;TZID=America/Chicago:20250423T180000
@@ -289,6 +281,14 @@ DTSTART;TZID=America/Chicago:20250424T133000
 DTEND;TZID=America/Chicago:20250424T143000
 LOCATION:Upon registration https://bcm.zoom.us/webinar/register/WN_wDWCVKC
  oQOu63pVxb2exSg#/registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Justice InvolveED: Reproductive Access in the Criminal Justice Sys
+ tem
+DTSTART;TZID=America/Chicago:20250429T120000
+DTEND;TZID=America/Chicago:20250429T130000
+LOCATION:https://bcm.zoom.us/j/92663076378?pwd=jOw5iOiu6TBA2MmPla13yr2bYrP
+ Fkh.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Physician Experiences in Global Health
