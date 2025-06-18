@@ -348,4 +348,11 @@ DTEND;TZID=America/Chicago:20250605T010000
 LOCATION:https://bcm.zoom.us/j/97875823998?pwd=bgPVKmQ9a7pXGynrFGaqaUKzPFu
  gzN.1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community voices\, Environmental exposures\, and Cancer Risks: Par
+ ticipatory Research Approach 
+DTSTART;TZID=America/Chicago:20250619T160000
+DTEND;TZID=America/Chicago:20250619T170000
+LOCATION:https://bcm.zoom.us/j/96091555189
+END:VEVENT
 END:VCALENDAR
