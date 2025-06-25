@@ -15,8 +15,8 @@ LOCATION:by request for temple only
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hepatitis B talk w/ Dr. Lee (APAMSA)
-DTSTART;TZID=America/Chicago:20240206T183000
-DTEND;TZID=America/Chicago:20240206T193000
+DTSTART;TZID=America/Chicago:20250206T183000
+DTEND;TZID=America/Chicago:20250206T193000
 LOCATION:by request for temple: https://docs.google.com/forms/d/1JFKJuuJyg
  KceK2gSN6woWhl2JyoCPAaX9Bys3hMQ63Q/viewform?edit_requested=true 
 END:VEVENT
