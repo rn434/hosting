@@ -1,5 +1,40 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:Siempre Unidos Monthly Medical Spanish Workshop - OB/GYN and Urolo
+ gy
+DTSTART;TZID=America/Chicago:20240122T180000
+DTEND;TZID=America/Chicago:20240122T190000
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Rejuvenation: Reimagining the United States Healthcare Sy
+ stem
+DTSTART;TZID=America/Chicago:20240130T160000
+DTEND;TZID=America/Chicago:20240130T170000
+LOCATION:by request for temple only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Justice InvolvEd Introduction Meeting and Training
+DTSTART;TZID=America/Chicago:20240919T170000
+DTEND;TZID=America/Chicago:20240919T190000
+LOCATION:https://bcm.zoom.us/j/98130526834?pwd=Pc0nUZslaBe7t7VBb7g8NFZpN0i
+ LnO.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHIG x AADMD x GOBIG: Providing ObGyn Care to Patients with Intell
+ ectual and Developmental Disabilities
+DTSTART;TZID=America/Chicago:20240926T190000
+DTEND;TZID=America/Chicago:20240926T200000
+LOCATION:https://bcm.zoom.us/j/98933153511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronic Pain and Palliative Care 
+DTSTART;TZID=America/Chicago:20240930T173000
+DTEND;TZID=America/Chicago:20240930T183000
+LOCATION:https://bcm.zoom.us/j/91481808321?pwd=J9ndDaZC9kQKDbnilaaaa2ea0yS
+ MY5.1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MCSD Lecture - Temple
 DTSTART;TZID=America/Chicago:20241004T170000
 DTEND;TZID=America/Chicago:20241004T180000
@@ -12,56 +47,12 @@ DTEND;TZID=America/Chicago:20241005T084500
 LOCATION:MEC Lobby
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:International CSIoH Speaker event
-DTSTART;TZID=America/Chicago:20241024T120000
-DTEND;TZID=America/Chicago:20241024T130000
-LOCATION:Mayborn Auditorium 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GHIGxDWB: Documentary Screening Living in Emergency 
-DTSTART;TZID=America/Chicago:20241209T180000
-DTEND;TZID=America/Chicago:20241209T200000
-LOCATION:MEB 142
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Global Health in Central Texas
-DTSTART;TZID=America/Chicago:20250225T170000
-DTEND;TZID=America/Chicago:20250225T180000
-LOCATION:https://riceuniversity.zoom.us/j/94604571863?pwd=qGbC5eLEMQ2YbfOP
- Putbfl9g04TGEi.1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OBGYN Emergencies in the ER
-DTSTART;TZID=America/Chicago:20250326T180000
-DTEND;TZID=America/Chicago:20250326T190000
-LOCATION:MEB 144
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Temple SLP Symposium Guest Speaker
-DTSTART;TZID=America/Chicago:20250410T120000
-DTEND;TZID=America/Chicago:20250410T130000
-LOCATION:Mayborn Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Rejuvenation: Reimagining the United States Healthcare Sy
- stem
-DTSTART;TZID=America/Chicago:20240130T160000
-DTEND;TZID=America/Chicago:20240130T170000
-LOCATION:by request for temple only
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hepatitis B talk w/ Dr. Lee (APAMSA)
-DTSTART;TZID=America/Chicago:20250206T183000
-DTEND;TZID=America/Chicago:20250206T193000
-LOCATION:by request for temple: https://docs.google.com/forms/d/1JFKJuuJyg
- KceK2gSN6woWhl2JyoCPAaX9Bys3hMQ63Q/viewform?edit_requested=true 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Justice InvolvEd Introduction Meeting and Training
-DTSTART;TZID=America/Chicago:20240919T170000
-DTEND;TZID=America/Chicago:20240919T190000
-LOCATION:https://bcm.zoom.us/j/98130526834?pwd=Pc0nUZslaBe7t7VBb7g8NFZpN0i
- LnO.1
+SUMMARY:The Socio-Geographic History of Houston and its Implication on Tod
+ ay’s Social Determinants of Health
+DTSTART;TZID=America/Chicago:20241008T180000
+DTEND;TZID=America/Chicago:20241008T190000
+LOCATION:https://us05web.zoom.us/j/84407334612?pwd=dh939eD0gQqm3bcAMbaDygp
+ n5IGuhD.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anti-Human Trafficking Workshop for Clinical Rotations
@@ -76,6 +67,12 @@ DTSTART;TZID=America/Chicago:20241023T170000
 DTEND;TZID=America/Chicago:20241023T180000
 LOCATION:https://bcm.zoom.us/j/91934419618?pwd=UaklwgX1O6bzUVzAUJVPHqbbo2S
  k9Z.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International CSIoH Speaker event
+DTSTART;TZID=America/Chicago:20241024T120000
+DTEND;TZID=America/Chicago:20241024T130000
+LOCATION:Mayborn Auditorium 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Responding to Intimate Partner Violence and Sexual Assault
@@ -94,59 +91,6 @@ SUMMARY:Public Health Interest Group convo with Dr. Ricondo
 DTSTART;TZID=America/Chicago:20241121T183000
 DTEND;TZID=America/Chicago:20241121T193000
 LOCATION:https://bcm.zoom.us/j/97212053296
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHIG: Care of the Immigrant Child with Dr. Karla Fredricks
-DTSTART;TZID=America/Chicago:20241205T120000
-DTEND;TZID=America/Chicago:20241205T130000
-LOCATION:https://bcm.zoom.us/j/97938652980
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Connecting Oral Health to Overall Health
-DTSTART;TZID=America/Chicago:20250212T180000
-DTEND;TZID=America/Chicago:20250212T190000
-LOCATION:https://bcm.zoom.us/j/94795963607
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DIG: Jorunal Club
-DTSTART;TZID=America/Chicago:20250319T120000
-DTEND;TZID=America/Chicago:20250319T130000
-LOCATION:upon request
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Genomics: Its Ethics and Its Future
-DTSTART;TZID=America/Chicago:20250321T120000
-DTEND;TZID=America/Chicago:20250321T130000
-LOCATION:Upon request to clarice.jacobson@bcm.edu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Siempre Unidos Monthly Medical Spanish Workshop - OB/GYN and Urolo
- gy
-DTSTART;TZID=America/Chicago:20240122T180000
-DTEND;TZID=America/Chicago:20240122T190000
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHIG x AADMD x GOBIG: Providing ObGyn Care to Patients with Intell
- ectual and Developmental Disabilities
-DTSTART;TZID=America/Chicago:20240926T190000
-DTEND;TZID=America/Chicago:20240926T200000
-LOCATION:https://bcm.zoom.us/j/98933153511
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronic Pain and Palliative Care 
-DTSTART;TZID=America/Chicago:20240930T173000
-DTEND;TZID=America/Chicago:20240930T183000
-LOCATION:https://bcm.zoom.us/j/91481808321?pwd=J9ndDaZC9kQKDbnilaaaa2ea0yS
- MY5.1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Socio-Geographic History of Houston and its Implication on Tod
- ay’s Social Determinants of Health
-DTSTART;TZID=America/Chicago:20241008T180000
-DTEND;TZID=America/Chicago:20241008T190000
-LOCATION:https://us05web.zoom.us/j/84407334612?pwd=dh939eD0gQqm3bcAMbaDygp
- n5IGuhD.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Trauma-Informed Care: Mindfully Serving Patients and the 
@@ -176,12 +120,24 @@ DTEND;TZID=America/Chicago:20241204T190000
 LOCATION:https://bcm.zoom.us/j/96300514436
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHIG: Care of the Immigrant Child with Dr. Karla Fredricks
+DTSTART;TZID=America/Chicago:20241205T120000
+DTEND;TZID=America/Chicago:20241205T130000
+LOCATION:https://bcm.zoom.us/j/97938652980
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPSA Lunch lecture with Dr.Sohail Nibras - SDOH and Psychiatry con
  ditions in Pediatrics
 DTSTART;TZID=America/Chicago:20241205T120000
 DTEND;TZID=America/Chicago:20241205T130000
 LOCATION:https://bcm.zoom.us/j/93102918628?pwd=fbb8FybN7VTbf2PHrb9a7Hf6oY5
  3wH.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GHIGxDWB: Documentary Screening Living in Emergency 
+DTSTART;TZID=America/Chicago:20241209T180000
+DTEND;TZID=America/Chicago:20241209T200000
+LOCATION:MEB 142
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAMSA: Integrative Medicine Talk with Dr. Misra
@@ -197,6 +153,19 @@ DTEND;TZID=America/Chicago:20250122T130000
 LOCATION:in groupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hepatitis B talk w/ Dr. Lee (APAMSA)
+DTSTART;TZID=America/Chicago:20250206T183000
+DTEND;TZID=America/Chicago:20250206T193000
+LOCATION:by request for temple: https://docs.google.com/forms/d/1JFKJuuJyg
+ KceK2gSN6woWhl2JyoCPAaX9Bys3hMQ63Q/viewform?edit_requested=true 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecting Oral Health to Overall Health
+DTSTART;TZID=America/Chicago:20250212T180000
+DTEND;TZID=America/Chicago:20250212T190000
+LOCATION:https://bcm.zoom.us/j/94795963607
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Moms to Moms: Financial Resources for Families
 DTSTART;TZID=America/Chicago:20250212T120000
 DTEND;TZID=America/Chicago:20250212T130000
@@ -208,6 +177,13 @@ DTSTART;TZID=America/Chicago:20250218T120000
 DTEND;TZID=America/Chicago:20250218T130000
 LOCATION:https://bcm.zoom.us/j/97156009676?pwd=v6XbbQrEPTqL3IuadmL1NbJQxcF
  bNq.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Global Health in Central Texas
+DTSTART;TZID=America/Chicago:20250225T170000
+DTEND;TZID=America/Chicago:20250225T180000
+LOCATION:https://riceuniversity.zoom.us/j/94604571863?pwd=qGbC5eLEMQ2YbfOP
+ Putbfl9g04TGEi.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DIG: Skin of Color Game Night 
@@ -230,10 +206,28 @@ LOCATION:Register in the HRSA/SCAETC system here: SCORE Registration (http
  u
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DIG: Jorunal Club
+DTSTART;TZID=America/Chicago:20250319T120000
+DTEND;TZID=America/Chicago:20250319T130000
+LOCATION:upon request
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genomics: Its Ethics and Its Future
+DTSTART;TZID=America/Chicago:20250321T120000
+DTEND;TZID=America/Chicago:20250321T130000
+LOCATION:Upon request to clarice.jacobson@bcm.edu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Approach to Underserved Patients
 DTSTART;TZID=America/Chicago:20250325T180000
 DTEND;TZID=America/Chicago:20250325T190000
 LOCATION:https://bcm.zoom.us/j/97498518288
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OBGYN Emergencies in the ER
+DTSTART;TZID=America/Chicago:20250326T180000
+DTEND;TZID=America/Chicago:20250326T190000
+LOCATION:MEB 144
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG: Cases in HIV for InterProfessional Students (CHIPS) Case 3
@@ -247,6 +241,12 @@ DTSTART;TZID=America/Chicago:20250403T180000
 DTEND;TZID=America/Chicago:20250403T190000
 LOCATION:https://bcm.zoom.us/j/91633444016?pwd=hJD3mAdzdQnd8tMQwCKxLK3LNmF
  EXO.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temple SLP Symposium Guest Speaker
+DTSTART;TZID=America/Chicago:20250410T120000
+DTEND;TZID=America/Chicago:20250410T130000
+LOCATION:Mayborn Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston TX Maternal Mortality and Morbidity Committee Talk
