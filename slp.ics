@@ -47,6 +47,12 @@ DTEND;TZID=America/Chicago:20241005T084500
 LOCATION:MEC Lobby
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Moms to Moms: Intro to Lactation and Breastfeeding
+DTSTART;TZID=America/Chicago:20241007T120000
+DTEND;TZID=America/Chicago:20241007T130000
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Socio-Geographic History of Houston and its Implication on Tod
  ay’s Social Determinants of Health
 DTSTART;TZID=America/Chicago:20241008T180000
@@ -60,6 +66,12 @@ DTSTART;TZID=America/Chicago:20241017T120000
 DTEND;TZID=America/Chicago:20241017T130000
 LOCATION:https://bcm.zoom.us/j/91909865890?pwd=xGHiAnKtUpbzQ0HHbimu4D6DOgt
  YAx.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moms to Moms: Purple Crying in a Newborn
+DTSTART;TZID=America/Chicago:20241022T120000
+DTEND;TZID=America/Chicago:20241022T130000
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Journal Club: Toxocara in Houston and Associated SDOH
@@ -145,6 +157,25 @@ DTSTART;TZID=America/Chicago:20241209T120000
 DTEND;TZID=America/Chicago:20241209T130000
 LOCATION:https://bcm.zoom.us/j/91464265291?pwd=ifyVdAavZMEnWnPctaLlKy3CGmR
  HaK.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moms to Moms: Newborn Safe Sleep
+DTSTART;TZID=America/Chicago:20241210T120000
+DTEND;TZID=America/Chicago:20241210T130000
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moms to Moms: Newborn Injury Prevention
+DTSTART;TZID=America/Chicago:20241212T120000
+DTEND;TZID=America/Chicago:20241212T130000
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moms to Moms: From Womb to World: Navigating Perinatology and Neon
+ atology
+DTSTART;TZID=America/Chicago:20250107T120000
+DTEND;TZID=America/Chicago:20250107T130000
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GHIG Talk with Dr. Anandasabapathy
