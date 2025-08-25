@@ -745,7 +745,8 @@ DTEND;TZID=America/Chicago:20251006T095000
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Using Clinical Prediction Rules for Patient Care
+SUMMARY:Using Clinical Prediction Rules and Clinical Practice Guidelines T
+ eam-Based Learning
 DTSTART;TZID=America/Chicago:20251006T100000
 DTEND;TZID=America/Chicago:20251006T105000
 LOCATION:MEC 210
@@ -796,7 +797,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pain Management Team- Based Learning
 DTSTART;TZID=America/Chicago:20251010T110000
-DTEND;TZID=America/Chicago:20251010T115000
+DTEND;TZID=America/Chicago:20251010T120000
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
@@ -870,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:Wellness Today and Tomorrow
 DTSTART;TZID=America/Chicago:20251015T150000
 DTEND;TZID=America/Chicago:20251015T165000
-LOCATION:Kleberg Auditorium
+LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inpatient Simulation 3: Group D
@@ -886,8 +887,8 @@ LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ultrasound-Guided Peripheral IV Insertion Workshop
-DTSTART;TZID=America/Chicago:20251016T130000
-DTEND;TZID=America/Chicago:20251016T143000
+DTSTART;TZID=America/Chicago:20251016T131000
+DTEND;TZID=America/Chicago:20251016T144000
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
