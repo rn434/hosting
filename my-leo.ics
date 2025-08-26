@@ -786,7 +786,7 @@ BEGIN:VEVENT
 SUMMARY:Patient Safety Interprofessional Education Workshop
 DTSTART;TZID=America/Chicago:20251009T131000
 DTEND;TZID=America/Chicago:20251009T144000
-LOCATION:Small Group Rooms
+LOCATION:Virtual - Synchronous
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pain Management Team- Based Learning
