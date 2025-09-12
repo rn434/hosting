@@ -588,6 +588,12 @@ DTEND;TZID=America/Chicago:20250922T085000
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medication Reconciliation Workshop
+DTSTART;TZID=America/Chicago:20250922T090000
+DTEND;TZID=America/Chicago:20250922T095000
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Precision in Practice: Navigating the EHR and Crafting Progress No
  tes
 DTSTART;TZID=America/Chicago:20250922T100000
