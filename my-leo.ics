@@ -183,13 +183,13 @@ BEGIN:VEVENT
 SUMMARY:Endocrine system and Male Reproductive System
 DTSTART;TZID=America/Chicago:20250807T100000
 DTEND;TZID=America/Chicago:20250807T105000
-LOCATION:Kleberg Auditorium/MEC 109
+LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Endocrine System and Male Reproductive System
 DTSTART;TZID=America/Chicago:20250807T110000
 DTEND;TZID=America/Chicago:20250807T112500
-LOCATION:Kleberg Auditorium/MEC 109
+LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Problem Representation Workshop
@@ -743,13 +743,13 @@ BEGIN:VEVENT
 SUMMARY:Chest Radiograph (CXR) Interpretation Team-Based Learning
 DTSTART;TZID=America/Chicago:20251003T100000
 DTEND;TZID=America/Chicago:20251003T105000
-LOCATION:Kleberg Auditorium/MEC 109
+LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chest Radiograph (CXR) Interpretation Team-Based Learning
 DTSTART;TZID=America/Chicago:20251003T110000
 DTEND;TZID=America/Chicago:20251003T120000
-LOCATION:Kleberg Auditorium/MEC 109
+LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Health Literacy\,  Teaching Patients
@@ -909,13 +909,13 @@ SUMMARY:From Mistakes to Mastery: Fostering Resilience in Medical School a
  nd Beyond
 DTSTART;TZID=America/Chicago:20251017T100000
 DTEND;TZID=America/Chicago:20251017T105000
-LOCATION:Kleberg Auditorium/MEC 109
+LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clinical Learning Environment Orientation and Introduction to ACTA
 DTSTART;TZID=America/Chicago:20251017T110000
 DTEND;TZID=America/Chicago:20251017T115000
-LOCATION:Kleberg Auditorium/MEC 109
+LOCATION:MEC 109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CV and Pulmonary Abnormals
