@@ -21,6 +21,14 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjQ0ZDliZG
  e-48a1-8c9e-0f1a70d4d712%22%7d 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rethinking Empathy ( IMIG Palliative care conversation)
+DTSTART;TZID=America/Chicago:20250924T173000
+DTEND;TZID=America/Chicago:20250924T183000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Physician Experiences in Global Health
 DTSTART;TZID=America/Chicago:20250930T170000
 DTEND;TZID=America/Chicago:20250930T180000
@@ -36,14 +44,6 @@ SUMMARY:Dream Outside the Box Education Talk on Pipeline Programs & Educat
  ion Equity
 DTSTART;TZID=America/Chicago:20251021T180000
 DTEND;TZID=America/Chicago:20251021T190000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rethinking Empathy ( IMIG Palliative care conversation)
-DTSTART;TZID=America/Chicago:20250924T173000
-DTEND;TZID=America/Chicago:20250924T183000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:
