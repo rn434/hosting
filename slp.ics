@@ -40,6 +40,15 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdkNmUxND
  9-49f6-885a-3ccf8c22009e%22%7d
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LMIG Lunch & Learn: Incorpation of Lifestyle Medicine into Clinica
+ l Practice 
+DTSTART;TZID=America/Chicago:20251008T120000
+DTEND;TZID=America/Chicago:20251008T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In room M321! 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Virtual PHIG Journal Club: Language brokering profiles of Mexican-
  origin adolescents in immigrant communities: Social-cultural contributors 
  and developmental outcomes
