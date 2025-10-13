@@ -563,6 +563,12 @@ DTEND;TZID=America/Chicago:20251015T165000
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 3: Temple
+DTSTART;TZID=America/Chicago:20251016T143000
+DTEND;TZID=America/Chicago:20251016T170000
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Clinical Learning Environment and Mistreatment Workshop
 DTSTART;TZID=America/Chicago:20251017T080000
 DTEND;TZID=America/Chicago:20251017T085000
