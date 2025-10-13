@@ -40,14 +40,6 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdkNmUxND
  9-49f6-885a-3ccf8c22009e%22%7d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Learning More About Children’s Medicaid and CHIP Eligibility
-DTSTART;TZID=America/Chicago:20251014T180000
-DTEND;TZID=America/Chicago:20251014T190000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:Will be updated
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Building Foundations: A Medical Education Intervention in Unhoused
   Women's Healthcare
 DTSTART;TZID=America/Chicago:20251015T180000
