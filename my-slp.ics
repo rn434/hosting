@@ -74,15 +74,4 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:teams link
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Q&A + Discussion with Dr Rahman on rural oncologic care
-DTSTART;TZID=America/Chicago:20251021T180000
-DTEND;TZID=America/Chicago:20251021T193000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
- %3ameeting_MDQ3MGVjY2MtZDg2NC00YjMyLWJiOWYtNTQ5YjBjYTA4MTYx%40thread.v2/0?
- context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid
- %22%3a%22bfe91351-c564-4558-aac7-0d34b97207dd%22%7d
-END:VEVENT
 END:VCALENDAR
