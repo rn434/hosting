@@ -64,8 +64,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Building Foundations: A Medical Education Intervention in Unhoused
   Women's Healthcare
-DTSTART;TZID=America/Chicago:20251015T180000
-DTEND;TZID=America/Chicago:20251015T193000
+DTSTART;TZID=America/Chicago:20251016T183000
+DTEND;TZID=America/Chicago:20251016T200000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Will be updated
