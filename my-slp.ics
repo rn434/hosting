@@ -49,15 +49,6 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdkNmUxND
  9-49f6-885a-3ccf8c22009e%22%7d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tackling Viral Hepatitis in Vulnerable Populations (IDIG)
-DTSTART;TZID=America/Chicago:20251015T180000
-DTEND;TZID=America/Chicago:20251015T190000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:in room 187A!\nzoom link: https://us04web.zoom.us/j/74884073229?p
- wd=voFubPuWcPWRVYtHL2AOex9Swdgkqb.1\n\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PHIG - LGBTQ+ Healthcare Education Talk
 DTSTART;TZID=America/Chicago:20251021T120000
 DTEND;TZID=America/Chicago:20251021T130000
@@ -73,5 +64,13 @@ DTEND;TZID=America/Chicago:20251021T190000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:teams link
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMWA/TMA Introduction to advocacy
+DTSTART;TZID=America/Chicago:20251030T120000
+DTEND;TZID=America/Chicago:20251030T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:in person
 END:VEVENT
 END:VCALENDAR
