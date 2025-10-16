@@ -77,7 +77,10 @@ DTSTART;TZID=America/Chicago:20251016T183000
 DTEND;TZID=America/Chicago:20251016T200000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:Will be updated
+LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU2MzkxNT
+ YtNDYyZS00ZjZjLTk0NGUtNDAwZjYxOGJhMWQ4%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%2220e7d008-05e
+ f-4173-843b-c9b4f53faebb%22%7d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tackling Viral Hepatitis in Vulnerable Populations (IDIG)
