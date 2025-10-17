@@ -323,6 +323,21 @@ DESCRIPTION: (MANDATORY)
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clerkship Student Shadowing- Group A
+DTSTART;TZID=America/Chicago:20250923T080000
+DTEND;TZID=America/Chicago:20250923T120000
+DESCRIPTION: (MANDATORY) Family Medicine will be on 10/4 1-5pm\\\, check B
+ lackboard for more info
+LOCATION:Shadow Site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preceptor Session 1- Group C
+DTSTART;TZID=America/Chicago:20250923T130000
+DTEND;TZID=America/Chicago:20250923T170000
+DESCRIPTION: (MANDATORY) 
+LOCATION:7300 Bosque Blvd
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Introduction to the Ethical Analysis Framework 
 DTSTART;TZID=America/Chicago:20250924T080000
 DTEND;TZID=America/Chicago:20250924T085000
@@ -344,11 +359,26 @@ DESCRIPTION:
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Preceptor Session 1- Group D
+DTSTART;TZID=America/Chicago:20250924T130000
+DTEND;TZID=America/Chicago:20250924T170000
+DESCRIPTION: (MANDATORY) 
+LOCATION:7300 Bosque Blvd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clerkship Student Shadowing- Group B
+DTSTART;TZID=America/Chicago:20250925T080000
+DTEND;TZID=America/Chicago:20250925T120000
+DESCRIPTION: (MANDATORY) Family Medicine will be on 10/8 1-5pm\\\, check B
+ lackboard for more info
+LOCATION:Shadow Site
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cognitive Predispositions\, Attitudes and Perceptions Workshop
 DTSTART;TZID=America/Chicago:20250925T131000
 DTEND;TZID=America/Chicago:20250925T144000
-DESCRIPTION: (MANDATORY) Houston- See room assignment on Blackboard\nTempl
- e- report to MEC210
+DESCRIPTION: (MANDATORY) Houston- See room assignment on Blackboard\\nTemp
+ le- report to MEC210
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
@@ -416,6 +446,34 @@ DESCRIPTION: (MANDATORY)
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 1: Group A
+DTSTART;TZID=America/Chicago:20250929T130000
+DTEND;TZID=America/Chicago:20250929T170000
+DESCRIPTION: (MANDATORY) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clerkship Student Shadowing- Group C
+DTSTART;TZID=America/Chicago:20250930T080000
+DTEND;TZID=America/Chicago:20250930T120000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Shadow Site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 1: Group B
+DTSTART;TZID=America/Chicago:20250930T080000
+DTEND;TZID=America/Chicago:20250930T120000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 1:  Group C
+DTSTART;TZID=America/Chicago:20250930T130000
+DTEND;TZID=America/Chicago:20250930T170000
+DESCRIPTION: (MANDATORY) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Applied Ethics: Confidentiality
 DTSTART;TZID=America/Chicago:20251001T080000
 DTEND;TZID=America/Chicago:20251001T085000
@@ -437,12 +495,34 @@ DESCRIPTION:
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 1: Group D
+DTSTART;TZID=America/Chicago:20251001T130000
+DTEND;TZID=America/Chicago:20251001T170000
+DESCRIPTION: (MANDATORY) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clerkship Student Shadowing- Group D
+DTSTART;TZID=America/Chicago:20251002T080000
+DTEND;TZID=America/Chicago:20251002T120000
+DESCRIPTION: (MANDATORY)  (CONFLICT) Family Medicine will be on 9/27 1-5pm
+ \\\, check Blackboard for more info
+LOCATION:Shadow Site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 1: Group E
+DTSTART;TZID=America/Chicago:20251002T080000
+DTEND;TZID=America/Chicago:20251002T120000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Operating Room Etiquette and Scrub Training
 DTSTART;TZID=America/Chicago:20251002T131000
 DTEND;TZID=America/Chicago:20251002T144000
 DESCRIPTION: (MANDATORY) Houston-Students will rotate locations for this s
- ession. See Blackboard for more information.\nTemple - Meet at MEB 3rd Flo
- or Dry Lab Room
+ ession. See Blackboard for more information.\\nTemple - Meet at MEB 3rd Fl
+ oor Dry Lab Room
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
@@ -504,6 +584,27 @@ DESCRIPTION: (MANDATORY)
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Preceptor Session 1- Group A
+DTSTART;TZID=America/Chicago:20251006T130000
+DTEND;TZID=America/Chicago:20251006T170000
+DESCRIPTION: (MANDATORY) 
+LOCATION:7300 Bosque Blvd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 2: Group B
+DTSTART;TZID=America/Chicago:20251007T080000
+DTEND;TZID=America/Chicago:20251007T120000
+DESCRIPTION: (MANDATORY) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 2: Group C
+DTSTART;TZID=America/Chicago:20251007T130000
+DTEND;TZID=America/Chicago:20251007T170000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Applied Ethics: Medical Errors and  Reporting Requirements
 DTSTART;TZID=America/Chicago:20251008T080000
 DTEND;TZID=America/Chicago:20251008T085000
@@ -532,15 +633,36 @@ DESCRIPTION:
 LOCATION:MEC 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 2: Group D
+DTSTART;TZID=America/Chicago:20251008T130000
+DTEND;TZID=America/Chicago:20251008T170000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preceptor Session 1- Group B
+DTSTART;TZID=America/Chicago:20251008T130000
+DTEND;TZID=America/Chicago:20251008T170000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:7300 Bosque Blvd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 2: Group E
+DTSTART;TZID=America/Chicago:20251009T080000
+DTEND;TZID=America/Chicago:20251009T120000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Patient Safety Interprofessional Education Workshop
 DTSTART;TZID=America/Chicago:20251009T131000
 DTEND;TZID=America/Chicago:20251009T144000
-DESCRIPTION: (MANDATORY) See Blackboard for group assignment:\nZoom Room 1
-  (Groups 1-30) \nhttps://uh-edu-cougarnet.zoom.us/j/88001798423?pwd=1hoJF
- os559v9F6GbQRebBLzuoWcxmR.1\nMeeting ID: 880 0179 8423  Passcode: 723739\
- n\nZoom Room 2 (Groups 31-60) \nhttps://uh-edu-cougarnet.zoom.us/j/813313
- 01728?pwd=aXvSevpWOgHvUIpRJdRjEPE0J7XnFu.1\nMeeting ID: 813 3130 1728  Pa
- sscode: 871098\n 
+DESCRIPTION: (MANDATORY) See Blackboard for group assignment:\\nZoom Room 
+ 1 (Groups 1-30) \\nhttps://uh-edu-cougarnet.zoom.us/j/88001798423?pwd=1ho
+ JFos559v9F6GbQRebBLzuoWcxmR.1\\nMeeting ID: 880 0179 8423  Passcode: 7237
+ 39\\n\\nZoom Room 2 (Groups 31-60) \\nhttps://uh-edu-cougarnet.zoom.us/j/
+ 81331301728?pwd=aXvSevpWOgHvUIpRJdRjEPE0J7XnFu.1\\nMeeting ID: 813 3130 17
+ 28  Passcode: 871098\\n 
 LOCATION:Virtual - Synchronous
 END:VEVENT
 BEGIN:VEVENT
@@ -593,6 +715,27 @@ DESCRIPTION: (MANDATORY)
 LOCATION:Asynchronous
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:US-Guided Peripheral IV Insertion Workshop- Houston and Temple
+DTSTART;TZID=America/Chicago:20251013T130000
+DTEND;TZID=America/Chicago:20251013T170000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US-Guided Peripheral IV Insertion Workshop
+DTSTART;TZID=America/Chicago:20251014T080000
+DTEND;TZID=America/Chicago:20251014T120000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US-Guided Peripheral IV Insertion Workshop
+DTSTART;TZID=America/Chicago:20251014T130000
+DTEND;TZID=America/Chicago:20251014T170000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Applied Ethics: Obstetrics Cases
 DTSTART;TZID=America/Chicago:20251015T080000
 DTEND;TZID=America/Chicago:20251015T085000
@@ -629,6 +772,41 @@ DESCRIPTION: (MANDATORY)
 LOCATION:Small Group Rooms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wellness Today and Tomorrow
+DTSTART;TZID=America/Chicago:20251015T150000
+DTEND;TZID=America/Chicago:20251015T165000
+DESCRIPTION: (MANDATORY) 
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US-Guided Peripheral IV Insertion Workshop
+DTSTART;TZID=America/Chicago:20251016T080000
+DTEND;TZID=America/Chicago:20251016T120000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultrasound-Guided Peripheral IV Insertion Workshop
+DTSTART;TZID=America/Chicago:20251016T131000
+DTEND;TZID=America/Chicago:20251016T144000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inpatient Simulation 3: Temple
+DTSTART;TZID=America/Chicago:20251016T143000
+DTEND;TZID=America/Chicago:20251016T170000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Simulation Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US-Guided Peripheral IV Insertion Workshop
+DTSTART;TZID=America/Chicago:20251016T143000
+DTEND;TZID=America/Chicago:20251016T170000
+DESCRIPTION: (MANDATORY)  (CONFLICT) 
+LOCATION:Small Group Rooms
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Clinical Learning Environment and Mistreatment Workshop
 DTSTART;TZID=America/Chicago:20251017T080000
 DTEND;TZID=America/Chicago:20251017T085000
@@ -661,8 +839,8 @@ BEGIN:VEVENT
 SUMMARY:Financial Wellness
 DTSTART;TZID=America/Chicago:20251017T120000
 DTEND;TZID=America/Chicago:20251017T130000
-DESCRIPTION:Microsoft Teams\nJoin the meeting now \nMeeting ID: 246 799 05
- 2 281 5\nPasscode: TR6Xb6pz\n&nbsp\;
+DESCRIPTION:Microsoft Teams\\nJoin the meeting now \\nMeeting ID: 246 799 
+ 052 281 5\\nPasscode: TR6Xb6pz\\n&nbsp\\\;
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
