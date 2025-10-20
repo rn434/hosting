@@ -31,15 +31,15 @@ LOCATION:Microsoft Teams Meeting ID: 240 242 675 193 5 Passcode: 66fi6c9z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rethinking Empathy ( IMIG Palliative care conversation)
-DTSTART;TZID=America/Chicago:20250924T173000
+DTSTART;TZID=America/Chicago:20250924T053000
 DTEND;TZID=America/Chicago:20250924T183000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:
+LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Physician Experiences in Global Health
-DTSTART;TZID=America/Chicago:20250930T170000
+DTSTART;TZID=America/Chicago:20250930T000000
 DTEND;TZID=America/Chicago:20250930T180000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LMIG Lunch & Learn: Incorpation of Lifestyle Medicine into Clinica
  l Practice
-DTSTART;TZID=America/Chicago:20251008T120000
+DTSTART;TZID=America/Chicago:20251008T000000
 DTEND;TZID=America/Chicago:20251008T130000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
@@ -60,8 +60,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual PHIG Journal Club: Language brokering profiles of Mexican-
  origin adolescents in immigrant communities: Social-cultural contributors 
- and developmental outcomes
-DTSTART;TZID=America/Chicago:20251013T180000
+ and developmental outcomesLanguage brokering profiles of Mexican-origin ad
+ olescents in immigrant communities: Social-cultural contributors and devel
+ opmental outcomes (https://pmc.ncbi.nlm.nih.gov/articles/PMC12165267/)
+DTSTART;TZID=America/Chicago:20251013T000000
 DTEND;TZID=America/Chicago:20251013T190000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
@@ -73,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Building Foundations: A Medical Education Intervention in Unhoused
   Women's Healthcare
-DTSTART;TZID=America/Chicago:20251016T183000
+DTSTART;TZID=America/Chicago:20251016T063000
 DTEND;TZID=America/Chicago:20251016T200000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
@@ -84,7 +86,7 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU2MzkxNT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tackling Viral Hepatitis in Vulnerable Populations (IDIG)
-DTSTART;TZID=America/Chicago:20251015T180000
+DTSTART;TZID=America/Chicago:20251015T000000
 DTEND;TZID=America/Chicago:20251015T190000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
@@ -93,7 +95,7 @@ LOCATION:in room 187A!\nzoom link: https://us04web.zoom.us/j/74884073229?p
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG - LGBTQ+ Healthcare Education Talk
-DTSTART;TZID=America/Chicago:20251021T120000
+DTSTART;TZID=America/Chicago:20251021T000000
 DTEND;TZID=America/Chicago:20251021T130000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
@@ -102,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dream Outside the Box Education Talk on Pipeline Programs & Educat
  ion Equity
-DTSTART;TZID=America/Chicago:20251021T180000
+DTSTART;TZID=America/Chicago:20251021T000000
 DTEND;TZID=America/Chicago:20251021T190000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
@@ -110,7 +112,7 @@ LOCATION:teams link
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Q&A + Discussion with Dr Rahman on rural oncologic care
-DTSTART;TZID=America/Chicago:20251021T180000
+DTSTART;TZID=America/Chicago:20251021T000000
 DTEND;TZID=America/Chicago:20251021T193000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
@@ -118,6 +120,14 @@ LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
  %3ameeting_MDQ3MGVjY2MtZDg2NC00YjMyLWJiOWYtNTQ5YjBjYTA4MTYx%40thread.v2/0?
  context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid
  %22%3a%22bfe91351-c564-4558-aac7-0d34b97207dd%22%7d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"The Good Death" with Dr. Jackson on palliative care
+DTSTART;TZID=America/Chicago:20251103T120000
+DTEND;TZID=America/Chicago:20251103T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In-Person and Teams: 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AMWA/TMA Introduction to advocacy
@@ -129,7 +139,7 @@ LOCATION:in person
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GHIG Faculty Speaker: Dr Stephanie Marton
-DTSTART;TZID=America/Chicago:20251027T180000
+DTSTART;TZID=America/Chicago:20251027T000000
 DTEND;TZID=America/Chicago:20251027T190000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
