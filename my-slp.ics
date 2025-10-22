@@ -79,14 +79,6 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
 LOCATION:In-Person and Teams: 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AMWA/TMA Introduction to advocacy
-DTSTART;TZID=America/Chicago:20251030T120000
-DTEND;TZID=America/Chicago:20251030T130000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:in person
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GHIG Faculty Speaker: Dr Stephanie Marton
 DTSTART;TZID=America/Chicago:20251027T180000
 DTEND;TZID=America/Chicago:20251027T190000
