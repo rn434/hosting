@@ -59,18 +59,6 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdkNmUxND
  id%22%3a%22822752fb-8609-49f6-885a-3ccf8c22009e%22%7d)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dream Outside the Box Education Talk on Pipeline Programs & Educat
- ion Equity
-DTSTART;TZID=America/Chicago:20251021T180000
-DTEND;TZID=America/Chicago:20251021T190000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:teams link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
- g_MmI1N2MzZGMtNzZkNS00N2Y4LTg0NjAtZmViZjVkM2RjZjk1%40thread.v2/0?context=%
- 7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%22
- 2987e620-b8c4-4301-a2d3-4fb871679aa2%22%7d)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"The Good Death" with Dr. Jackson on palliative care
 DTSTART;TZID=America/Chicago:20251103T120000
 DTEND;TZID=America/Chicago:20251103T130000
