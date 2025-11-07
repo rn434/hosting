@@ -212,6 +212,16 @@ DTSTART;TZID=America/Chicago:20251210T180000
 DTEND;TZID=America/Chicago:20251210T190000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:In-Person & Teams
+LOCATION:In-Person & Teams: https://teams.microsoft.com/l/meetup-join/19%3
+ ameeting_NTlmZjM2YWMtOWM0Yy00YTdhLWIyY2MtNDhlZWY0YTVmZmQy%40thread.v2/0?co
+ ntext=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%2
+ 2%3a%22d42f41b3-0165-4c53-82a7-0800943a5064%22%7dhttps://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_NTlmZjM2YWMtOWM0Yy00YTdhLWIyY2MtNDhlZWY0YTVm
+ ZmQy%40thread.v2/0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b7288
+ 9a9e926%22%2c%22Oid%22%3a%22d42f41b3-0165-4c53-82a7-0800943a5064%22%7d (ht
+ tps://teams.microsoft.com/l/meetup-join/19%3ameeting_NTlmZjM2YWMtOWM0Yy00Y
+ TdhLWIyY2MtNDhlZWY0YTVmZmQy%40thread.v2/0?context=%7b%22Tid%22%3a%22a83dba
+ 53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%22d42f41b3-0165-4c53-82a7
+ -0800943a5064%22%7d)
 END:VEVENT
 END:VCALENDAR
