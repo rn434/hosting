@@ -199,6 +199,15 @@ LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
  88-9b352d316c7a%22%7d)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Carceral Health Chat: An Abbreviated Guide to Caring for Justice-I
+ nvolved Patients
+DTSTART;TZID=America/Chicago:20251120T190000
+DTEND;TZID=America/Chicago:20251120T203000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:Online\; Teams link pending
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GHIG Journal Club
 DTSTART;TZID=America/Chicago:20251209T180000
 DTEND;TZID=America/Chicago:20251209T190000
