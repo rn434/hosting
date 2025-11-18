@@ -100,6 +100,14 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
 LOCATION:Online\; Teams link pending
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IHI Motivational Interviewing Workshop
+DTSTART;TZID=America/Chicago:20251208T170000
+DTEND;TZID=America/Chicago:20251208T180000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In-person (with food) + Teams (link to be released later)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GHIG Journal Club
 DTSTART;TZID=America/Chicago:20251209T180000
 DTEND;TZID=America/Chicago:20251209T190000
