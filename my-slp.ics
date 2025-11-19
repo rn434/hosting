@@ -77,20 +77,6 @@ LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
  88-9b352d316c7a%22%7d)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NPASS Journal Club
-DTSTART;TZID=America/Chicago:20251119T190000
-DTEND;TZID=America/Chicago:20251119T200000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODVjOWZhZD
- EtZTExOC00YzgxLTk5ZjAtNmFmZjFkYzIzYzEx%40thread.v2/0?context=%7b%22Tid%22%
- 3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%22b4883367-786
- d-4add-8cb0-05f736989a62%22%7d (https://teams.microsoft.com/l/meetup-join/
- 19%3ameeting_ODVjOWZhZDEtZTExOC00YzgxLTk5ZjAtNmFmZjFkYzIzYzEx%40thread.v2/
- 0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22O
- id%22%3a%22b4883367-786d-4add-8cb0-05f736989a62%22%7d)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carceral Health Chat: An Abbreviated Guide to Caring for Justice-I
  nvolved Patients
 DTSTART;TZID=America/Chicago:20251120T190000
@@ -98,22 +84,6 @@ DTEND;TZID=America/Chicago:20251120T203000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Online\; Teams link pending
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IHI Motivational Interviewing Workshop
-DTSTART;TZID=America/Chicago:20251208T170000
-DTEND;TZID=America/Chicago:20251208T180000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:In-person (with food) + Teams (link to be released later)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GHIG Journal Club
-DTSTART;TZID=America/Chicago:20251209T180000
-DTEND;TZID=America/Chicago:20251209T190000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:In person\, will send sign up link in a few weeks
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Siempre Unidos Faculty Speaker - Dr. Ricardo Nuila
