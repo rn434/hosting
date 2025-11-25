@@ -1,13 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Cognitive Predispositions\, Attitudes and Perceptions Workshop
-DTSTART;TZID=America/Chicago:20250925T131000
-DTEND;TZID=America/Chicago:20250925T144000
-DESCRIPTION: (MANDATORY) Houston- See room assignment on Blackboard\nTempl
- e- report to MEC210
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Electrocardiogram (EKG) Interpretation Team-Based Learning
 DTSTART;TZID=America/Chicago:20250926T100000
 DTEND;TZID=America/Chicago:20250926T105000
