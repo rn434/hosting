@@ -234,6 +234,14 @@ LOCATION:In-person (Houston) or Teams (Temple)\n\nRSVP here for food headc
  bKjLGGYde37)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pediatric Neurology Society (PNS) Journal Club
+DTSTART;TZID=America/Chicago:20251208T180000
+DTEND;TZID=America/Chicago:20251208T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In-Person [location TBD]
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Siempre Unidos Faculty Speaker - Dr. Ricardo Nuila
 DTSTART;TZID=America/Chicago:20251210T180000
 DTEND;TZID=America/Chicago:20251210T190000
