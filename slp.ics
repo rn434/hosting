@@ -223,6 +223,17 @@ LOCATION:Online\; Teams link https://shorturl.at/eli7M https://shorturl.at
  /eli7M  (https://shorturl.at/eli7M) 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCM CKC Survivors to Providers Panel
+DTSTART;TZID=America/Chicago:20251203T180000
+DTEND;TZID=America/Chicago:20251203T193000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:Teams Link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
+ g_ODJiODY2MTgtNmM0YS00OTYwLWJhNzEtOTUxMzg2NzJkMDJi%40thread.v2/0?context=%
+ 7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%22
+ 86c3c2eb-4803-4590-b5ea-ca1bc677b72a%22%7d)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IHI Motivational Interviewing Workshop
 DTSTART;TZID=America/Chicago:20251208T170000
 DTEND;TZID=America/Chicago:20251208T180000
