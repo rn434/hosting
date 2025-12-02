@@ -1,14 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Operating Room Etiquette and Scrub Training
-DTSTART;TZID=America/Chicago:20251002T131000
-DTEND;TZID=America/Chicago:20251002T144000
-DESCRIPTION: (MANDATORY) Houston-Students will rotate locations for this s
- ession. See Blackboard for more information.\nTemple - Meet at MEB 3rd Flo
- or Dry Lab Room
-LOCATION:Small Group Rooms
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Developing a Diagnostic and Therapeutic Plan
 DTSTART;TZID=America/Chicago:20251003T080000
 DTEND;TZID=America/Chicago:20251003T085000
