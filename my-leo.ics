@@ -1,17 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Patient Safety Interprofessional Education Workshop
-DTSTART;TZID=America/Chicago:20251009T131000
-DTEND;TZID=America/Chicago:20251009T144000
-DESCRIPTION: (MANDATORY) See Blackboard for group assignment:\nZoom Room 1
-  (Groups 1-30) \nhttps://uh-edu-cougarnet.zoom.us/j/88001798423?pwd=1hoJF
- os559v9F6GbQRebBLzuoWcxmR.1\nMeeting ID: 880 0179 8423  Passcode: 723739\
- n\nZoom Room 2 (Groups 31-60) \nhttps://uh-edu-cougarnet.zoom.us/j/813313
- 01728?pwd=aXvSevpWOgHvUIpRJdRjEPE0J7XnFu.1\nMeeting ID: 813 3130 1728  Pa
- sscode: 871098\n 
-LOCATION:Virtual - Synchronous
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pain Management Team- Based Learning
 DTSTART;TZID=America/Chicago:20251010T100000
 DTEND;TZID=America/Chicago:20251010T105000
