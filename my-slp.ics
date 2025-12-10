@@ -101,33 +101,6 @@ LOCATION:Online\; Teams link https://shorturl.at/eli7M https://shorturl.at
  /eli7M  (https://shorturl.at/eli7M) 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BCM NODA: Interprofessional Palliative Care Talk
-DTSTART;TZID=America/Chicago:20251202T173000
-DTEND;TZID=America/Chicago:20251202T183000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:In person & Teams: https://teams.microsoft.com/dl/launcher/launch
- er.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTM1YzQ3NmUtM2JiOS00N
- 2JkLWFhYmMtM2U1NGJhOTZhN2Q4%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522
- %253a%2522a83dba53-124d-4d32-88f0-b72889a9e926%2522%252c%2522Oid%2522%253a
- %2522b1d9b15c-517b-4d08-9d78-a04042ca7205%2522%257d%26OR%3DOutlook%26anon%
- 3Dtrue&type=meetup-join&deeplinkId=81662b9b-2d71-4238-a2fc-0cab11d99110&di
- rectDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=truehttps:/
- /teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-jo
- in%2F19%3Ameeting_NTM1YzQ3NmUtM2JiOS00N2JkLWFhYmMtM2U1NGJhOTZhN2Q4%40threa
- d.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a83dba53-124d-4d32-88f0-b
- 72889a9e926%2522%252c%2522Oid%2522%253a%2522b1d9b15c-517b-4d08-9d78-a04042
- ca7205%2522%257d%26OR%3DOutlook%26anon%3Dtrue&type=meetup-join&deeplinkId=
- 81662b9b-2d71-4238-a2fc-0cab11d99110&directDl=true&msLaunch=true&enableMob
- ilePage=true&suppressPrompt=true (https://teams.microsoft.com/dl/launcher/
- launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTM1YzQ3NmUtM2J
- iOS00N2JkLWFhYmMtM2U1NGJhOTZhN2Q4%40thread.v2%2F0%3Fcontext%3D%257b%2522Ti
- d%2522%253a%2522a83dba53-124d-4d32-88f0-b72889a9e926%2522%252c%2522Oid%252
- 2%253a%2522b1d9b15c-517b-4d08-9d78-a04042ca7205%2522%257d%26OR%3DOutlook%2
- 6anon%3Dtrue&type=meetup-join&deeplinkId=81662b9b-2d71-4238-a2fc-0cab11d99
- 110&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BCM CKC Survivors to Providers Panel
 DTSTART;TZID=America/Chicago:20251203T180000
 DTEND;TZID=America/Chicago:20251203T193000
@@ -137,25 +110,6 @@ LOCATION:Teams Link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
  g_ODJiODY2MTgtNmM0YS00OTYwLWJhNzEtOTUxMzg2NzJkMDJi%40thread.v2/0?context=%
  7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%22
  86c3c2eb-4803-4590-b5ea-ca1bc677b72a%22%7d)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IHI Motivational Interviewing Workshop
-DTSTART;TZID=America/Chicago:20251208T170000
-DTEND;TZID=America/Chicago:20251208T180000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:In-person (Houston) or Teams (Temple)\n\nRSVP here for food headc
- ount (Houston)/to receive the Teams link (Temple):\nhttps://forms.gle/qMzK
- XnbKjLGGYde37https://forms.gle/qMzKXnbKjLGGYde37 (https://forms.gle/qMzKXn
- bKjLGGYde37)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pediatric Neurology Society (PNS) Journal Club
-DTSTART;TZID=America/Chicago:20251208T180000
-DTEND;TZID=America/Chicago:20251208T190000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:In-Person [location TBD]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Siempre Unidos Faculty Speaker - Dr. Ricardo Nuila
