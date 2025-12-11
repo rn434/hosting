@@ -59,6 +59,24 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdkNmUxND
  id%22%3a%22822752fb-8609-49f6-885a-3ccf8c22009e%22%7d)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"The Good Death" with Dr. Jackson on palliative care
+DTSTART;TZID=US/Central:20251103T120000
+DTEND;TZID=US/Central:20251103T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
+ %3ameeting_MzFjZTdjZjUtMjNmYS00YmQxLTk1NjAtZTQ1Yjk2NDExMjMz%40thread.v2/0?
+ context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid
+ %22%3a%22873b53cb-efc3-4145-8d88-9b352d316c7a%22%7dhttps://teams.microsoft
+ .com/l/meetup-join/19%3ameeting_MzFjZTdjZjUtMjNmYS00YmQxLTk1NjAtZTQ1Yjk2ND
+ ExMjMz%40thread.v2/0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72
+ 889a9e926%22%2c%22Oid%22%3a%22873b53cb-efc3-4145-8d88-9b352d316c7a%22%7d (
+ https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzFjZTdjZjUtMjNmYS0
+ 0YmQxLTk1NjAtZTQ1Yjk2NDExMjMz%40thread.v2/0?context=%7b%22Tid%22%3a%22a83d
+ ba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%22873b53cb-efc3-4145-8d
+ 88-9b352d316c7a%22%7d)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NPASS Journal Club
 DTSTART;TZID=US/Central:20251119T190000
 DTEND;TZID=US/Central:20251119T200000
