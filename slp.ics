@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Altered States\, Altered Stakes: Ethical Considerations in Psyched
  elic Research
-DTSTART;TZID=America/Chicago:20250917T120000
-DTEND;TZID=America/Chicago:20250917T130000
+DTSTART;TZID=US/Central:20250917T000000
+DTEND;TZID=US/Central:20250917T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:register here: https://events.teams.microsoft.com/event/84428607-
@@ -15,8 +15,8 @@ LOCATION:register here: https://events.teams.microsoft.com/event/84428607-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bedlam Documentary on America's Mental Health Crisis
-DTSTART;TZID=America/Chicago:20250922T183000
-DTEND;TZID=America/Chicago:20250922T200000
+DTSTART;TZID=US/Central:20250922T063000
+DTEND;TZID=US/Central:20250922T073000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjQ0ZDliZG
@@ -30,24 +30,24 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HOMES Clinic: Drivers of Mortality Associated With Homelessness: A
  ccidents\, Violent Deaths\, and Natural Causes with Dr. Ben King
-DTSTART;TZID=America/Chicago:20250924T173000
-DTEND;TZID=America/Chicago:20250924T183000
+DTSTART;TZID=US/Central:20250924T053000
+DTEND;TZID=US/Central:20250924T063000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Microsoft Teams Meeting ID: 240 242 675 193 5 Passcode: 66fi6c9z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rethinking Empathy ( IMIG Palliative care conversation)
-DTSTART;TZID=America/Chicago:20250924T173000
-DTEND;TZID=America/Chicago:20250924T183000
+DTSTART;TZID=US/Central:20250924T053000
+DTEND;TZID=US/Central:20250924T063000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Physician Experiences in Global Health
-DTSTART;TZID=America/Chicago:20250930T170000
-DTEND;TZID=America/Chicago:20250930T180000
+DTSTART;TZID=US/Central:20250930T000000
+DTEND;TZID=US/Central:20250930T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdkNmUxND
@@ -61,8 +61,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LMIG Lunch & Learn: Incorpation of Lifestyle Medicine into Clinica
  l Practice
-DTSTART;TZID=America/Chicago:20251008T120000
-DTEND;TZID=America/Chicago:20251008T130000
+DTSTART;TZID=US/Central:20251008T000000
+DTEND;TZID=US/Central:20251008T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In room M321! 
@@ -71,8 +71,8 @@ BEGIN:VEVENT
 SUMMARY:Virtual PHIG Journal Club: Language brokering profiles of Mexican-
  origin adolescents in immigrant communities: Social-cultural contributors 
  and developmental outcomes
-DTSTART;TZID=America/Chicago:20251013T180000
-DTEND;TZID=America/Chicago:20251013T190000
+DTSTART;TZID=US/Central:20251013T000000
+DTEND;TZID=US/Central:20251013T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc5OTE4OW
@@ -85,8 +85,8 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc5OTE4OW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tackling Viral Hepatitis in Vulnerable Populations (IDIG)
-DTSTART;TZID=America/Chicago:20251015T180000
-DTEND;TZID=America/Chicago:20251015T190000
+DTSTART;TZID=US/Central:20251015T000000
+DTEND;TZID=US/Central:20251015T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:in room 187A!\nzoom link: https://us04web.zoom.us/j/74884073229?p
@@ -97,8 +97,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Building Foundations: A Medical Education Intervention in Unhoused
   Women's Healthcare
-DTSTART;TZID=America/Chicago:20251016T183000
-DTEND;TZID=America/Chicago:20251016T200000
+DTSTART;TZID=US/Central:20251016T063000
+DTEND;TZID=US/Central:20251016T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU2MzkxNT
@@ -111,8 +111,8 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU2MzkxNT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHIG - LGBTQ+ Healthcare Education Talk
-DTSTART;TZID=America/Chicago:20251021T120000
-DTEND;TZID=America/Chicago:20251021T130000
+DTSTART;TZID=US/Central:20251021T000000
+DTEND;TZID=US/Central:20251021T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:teams link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
@@ -123,8 +123,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dream Outside the Box Education Talk on Pipeline Programs & Educat
  ion Equity
-DTSTART;TZID=America/Chicago:20251021T180000
-DTEND;TZID=America/Chicago:20251021T190000
+DTSTART;TZID=US/Central:20251021T000000
+DTEND;TZID=US/Central:20251021T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:teams link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
@@ -134,8 +134,8 @@ LOCATION:teams link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Q&A + Discussion with Dr Rahman on rural oncologic care
-DTSTART;TZID=America/Chicago:20251021T180000
-DTEND;TZID=America/Chicago:20251021T193000
+DTSTART;TZID=US/Central:20251021T000000
+DTEND;TZID=US/Central:20251021T073000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
@@ -152,8 +152,8 @@ LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GHIG Faculty Speaker: Dr Stephanie Marton
-DTSTART;TZID=America/Chicago:20251027T180000
-DTEND;TZID=America/Chicago:20251027T190000
+DTSTART;TZID=US/Central:20251027T000000
+DTEND;TZID=US/Central:20251027T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:teams link
@@ -161,8 +161,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What Just Happened?\nA Recap of the 2025 \nRegular Session of the 
  Texas Legislature
-DTSTART;TZID=America/Chicago:20251029T120000
-DTEND;TZID=America/Chicago:20251029T130000
+DTSTART;TZID=US/Central:20251029T000000
+DTEND;TZID=US/Central:20251029T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Register: https://events.teams.microsoft.com/event/02dff164-25a7-
@@ -174,16 +174,16 @@ LOCATION:Register: https://events.teams.microsoft.com/event/02dff164-25a7-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AMWA/TMA Introduction to advocacy
-DTSTART;TZID=America/Chicago:20251030T120000
-DTEND;TZID=America/Chicago:20251030T130000
+DTSTART;TZID=US/Central:20251030T000000
+DTEND;TZID=US/Central:20251030T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:in person
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"The Good Death" with Dr. Jackson on palliative care
-DTSTART;TZID=America/Chicago:20251103T120000
-DTEND;TZID=America/Chicago:20251103T130000
+DTSTART;TZID=US/Central:20251103T120000
+DTEND;TZID=US/Central:20251103T130000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
@@ -200,8 +200,8 @@ LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NPASS Journal Club
-DTSTART;TZID=America/Chicago:20251119T190000
-DTEND;TZID=America/Chicago:20251119T200000
+DTSTART;TZID=US/Central:20251119T000000
+DTEND;TZID=US/Central:20251119T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODVjOWZhZD
@@ -215,8 +215,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carceral Health Chat: An Abbreviated Guide to Caring for Justice-I
  nvolved Patients
-DTSTART;TZID=America/Chicago:20251120T190000
-DTEND;TZID=America/Chicago:20251120T203000
+DTSTART;TZID=US/Central:20251120T000000
+DTEND;TZID=US/Central:20251120T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Online\; Teams link https://shorturl.at/eli7M https://shorturl.at
@@ -224,8 +224,8 @@ LOCATION:Online\; Teams link https://shorturl.at/eli7M https://shorturl.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BCM NODA: Interprofessional Palliative Care Talk
-DTSTART;TZID=America/Chicago:20251202T173000
-DTEND;TZID=America/Chicago:20251202T183000
+DTSTART;TZID=US/Central:20251202T053000
+DTEND;TZID=US/Central:20251202T063000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In person & Teams: https://teams.microsoft.com/dl/launcher/launch
@@ -251,8 +251,8 @@ LOCATION:In person & Teams: https://teams.microsoft.com/dl/launcher/launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BCM CKC Survivors to Providers Panel
-DTSTART;TZID=America/Chicago:20251203T180000
-DTEND;TZID=America/Chicago:20251203T193000
+DTSTART;TZID=US/Central:20251203T000000
+DTEND;TZID=US/Central:20251203T073000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Teams Link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
@@ -262,8 +262,8 @@ LOCATION:Teams Link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IHI Motivational Interviewing Workshop
-DTSTART;TZID=America/Chicago:20251208T170000
-DTEND;TZID=America/Chicago:20251208T180000
+DTSTART;TZID=US/Central:20251208T000000
+DTEND;TZID=US/Central:20251208T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In-person (Houston) or Teams (Temple)\n\nRSVP here for food headc
@@ -273,16 +273,16 @@ LOCATION:In-person (Houston) or Teams (Temple)\n\nRSVP here for food headc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pediatric Neurology Society (PNS) Journal Club
-DTSTART;TZID=America/Chicago:20251208T180000
-DTEND;TZID=America/Chicago:20251208T190000
+DTSTART;TZID=US/Central:20251208T000000
+DTEND;TZID=US/Central:20251208T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In-Person [location TBD]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Siempre Unidos Faculty Speaker - Dr. Ricardo Nuila
-DTSTART;TZID=America/Chicago:20251210T180000
-DTEND;TZID=America/Chicago:20251210T190000
+DTSTART;TZID=US/Central:20251210T060000
+DTEND;TZID=US/Central:20251210T070000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In-Person & Teams: https://teams.microsoft.com/l/meetup-join/19%3
