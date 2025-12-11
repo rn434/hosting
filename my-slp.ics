@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Altered States\, Altered Stakes: Ethical Considerations in Psyched
  elic Research
-DTSTART;TZID=America/Chicago:20250917T120000
-DTEND;TZID=America/Chicago:20250917T130000
+DTSTART;TZID=US/Central:20250917T000000
+DTEND;TZID=US/Central:20250917T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:register here: https://events.teams.microsoft.com/event/84428607-
@@ -15,8 +15,8 @@ LOCATION:register here: https://events.teams.microsoft.com/event/84428607-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bedlam Documentary on America's Mental Health Crisis
-DTSTART;TZID=America/Chicago:20250922T183000
-DTEND;TZID=America/Chicago:20250922T200000
+DTSTART;TZID=US/Central:20250922T063000
+DTEND;TZID=US/Central:20250922T073000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjQ0ZDliZG
@@ -30,24 +30,24 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HOMES Clinic: Drivers of Mortality Associated With Homelessness: A
  ccidents\, Violent Deaths\, and Natural Causes with Dr. Ben King
-DTSTART;TZID=America/Chicago:20250924T173000
-DTEND;TZID=America/Chicago:20250924T183000
+DTSTART;TZID=US/Central:20250924T053000
+DTEND;TZID=US/Central:20250924T063000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Microsoft Teams Meeting ID: 240 242 675 193 5 Passcode: 66fi6c9z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rethinking Empathy ( IMIG Palliative care conversation)
-DTSTART;TZID=America/Chicago:20250924T173000
-DTEND;TZID=America/Chicago:20250924T183000
+DTSTART;TZID=US/Central:20250924T053000
+DTEND;TZID=US/Central:20250924T063000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Physician Experiences in Global Health
-DTSTART;TZID=America/Chicago:20250930T170000
-DTEND;TZID=America/Chicago:20250930T180000
+DTSTART;TZID=US/Central:20250930T000000
+DTEND;TZID=US/Central:20250930T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdkNmUxND
@@ -60,8 +60,8 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdkNmUxND
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"The Good Death" with Dr. Jackson on palliative care
-DTSTART;TZID=America/Chicago:20251103T120000
-DTEND;TZID=America/Chicago:20251103T130000
+DTSTART;TZID=US/Central:20251103T120000
+DTEND;TZID=US/Central:20251103T130000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
@@ -78,8 +78,8 @@ LOCATION:In-Person and Teams: https://teams.microsoft.com/l/meetup-join/19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NPASS Journal Club
-DTSTART;TZID=America/Chicago:20251119T190000
-DTEND;TZID=America/Chicago:20251119T200000
+DTSTART;TZID=US/Central:20251119T000000
+DTEND;TZID=US/Central:20251119T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODVjOWZhZD
@@ -93,8 +93,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carceral Health Chat: An Abbreviated Guide to Caring for Justice-I
  nvolved Patients
-DTSTART;TZID=America/Chicago:20251120T190000
-DTEND;TZID=America/Chicago:20251120T203000
+DTSTART;TZID=US/Central:20251120T000000
+DTEND;TZID=US/Central:20251120T000000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Online\; Teams link https://shorturl.at/eli7M https://shorturl.at
@@ -102,8 +102,8 @@ LOCATION:Online\; Teams link https://shorturl.at/eli7M https://shorturl.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BCM CKC Survivors to Providers Panel
-DTSTART;TZID=America/Chicago:20251203T180000
-DTEND;TZID=America/Chicago:20251203T193000
+DTSTART;TZID=US/Central:20251203T000000
+DTEND;TZID=US/Central:20251203T073000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Teams Link (https://teams.microsoft.com/l/meetup-join/19%3ameetin
