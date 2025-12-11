@@ -25,7 +25,7 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjQ0ZDliZG
  e-48a1-8c9e-0f1a70d4d712%22%7d  (https://teams.microsoft.com/l/meetup-join
  /19%3ameeting_ZjQ0ZDliZGYtN2RiZS00Nzg3LTgwZmEtYTkwMTA2NGJlYjgz%40thread.v2
  /0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22
- Oid%22%3a%225483381e-c7fe-48a1-8c9e-0f1a70d4d712%22%7d)
+ Oid%22%3a%225483381e-c7fe-48a1-8c9e-0f1a70d4d712%22%7d) 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HOMES Clinic: Drivers of Mortality Associated With Homelessness: A
@@ -42,7 +42,7 @@ DTSTART;TZID=US/Central:20250924T173000
 DTEND;TZID=US/Central:20250924T183000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:
+LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Physician Experiences in Global Health
@@ -98,7 +98,7 @@ DTEND;TZID=US/Central:20251120T203000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:Online\; Teams link https://shorturl.at/eli7M https://shorturl.at
- /eli7M  (https://shorturl.at/eli7M)
+ /eli7M  (https://shorturl.at/eli7M) 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BCM CKC Survivors to Providers Panel
