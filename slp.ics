@@ -297,4 +297,12 @@ LOCATION:In-Person & Teams: https://teams.microsoft.com/l/meetup-join/19%3
  53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%22d42f41b3-0165-4c53-82a7
  -0800943a5064%22%7d)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insurance as a Public Health Issue
+DTSTART;TZID=US/Central:20251218T183000
+DTEND;TZID=US/Central:20251218T193000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:
+END:VEVENT
 END:VCALENDAR
