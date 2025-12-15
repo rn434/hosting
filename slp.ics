@@ -303,6 +303,6 @@ DTSTART;TZID=US/Central:20251218T183000
 DTEND;TZID=US/Central:20251218T193000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:
+LOCATION:virtual: link pending
 END:VEVENT
 END:VCALENDAR
