@@ -306,4 +306,13 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
 LOCATION:https://teams.microsoft.com/meet/27032844439782?p=6X5jHSjkWtbveFS
  P8d (https://teams.microsoft.com/meet/27032844439782?p=6X5jHSjkWtbveFSP8d)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exploring Social Determinants of Mental Health in Adolescents thro
+ ugh Disney’s Inside\nOut 2
+DTSTART;TZID=US/Central:20260103T183000
+DTEND;TZID=US/Central:20260103T203000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:Teams link will be added closer to the event date.
+END:VEVENT
 END:VCALENDAR
