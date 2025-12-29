@@ -127,6 +127,12 @@ DTSTART;TZID=US/Central:20260102T183000
 DTEND;TZID=US/Central:20260102T203000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:Teams link will be added closer to the event date.
+LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWMyMDFiMz
+ EtNmZlNC00OTY2LWE0ZWUtMzAxNWY3MTU2NzIw%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%22e948b50a-2e0
+ f-49d5-a7e4-f74c1d4625ad%22%7d (https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_OWMyMDFiMzEtNmZlNC00OTY2LWE0ZWUtMzAxNWY3MTU2NzIw%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22O
+ id%22%3a%22e948b50a-2e0f-49d5-a7e4-f74c1d4625ad%22%7d)
 END:VEVENT
 END:VCALENDAR
