@@ -1,32 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Deans Hour - Career Day 
-DTSTART;TZID=America/Chicago:20260120T173000
-DTEND;TZID=America/Chicago:20260120T193000
-DESCRIPTION: (MANDATORY)  (CONFLICT) This event is designed to help you be
- gin exploring your specialty options. From 5:30 PM &ndash\; 6:30 PM\, the 
- OSA Deans will present.  From 6:30 PM &ndash\; 7:30 PM\, you&rsquo\;ll hav
- e the opportunity to join a breakout room and hear directly from current r
- esidents about their specialties.Please plan to arrive on time. If no stud
- ents join a breakout room\, residents may sign off after 10&ndash\;15 minu
- tes. Note: These sessions will not be recorded. We look forward to seeing 
- you there! \n\nDeans Hour Link\nMicrosoft Teams Need help? \nJoin the meet
- ing now \nMeeting ID: 223 870 634 148 5\nPasscode: Ae7hF7Aa\n\n\nSpecialty
-  Breakout rooms\nMicrosoft Teams Need help? \nJoin the meeting now \nMeeti
- ng ID: 258 545 865 419 10\nPasscode: TD2uW3M9\n\nBreakout Rooms Instructio
- ns:\nRooms are organized by specialty. Please join your assigned room in M
- icrosoft Teams by following these steps: Open Microsoft Teams and navigate
-  to the meeting link provided. Once in the meeting\, click on Breakout Roo
- ms in the meeting controls. Locate your assigned specialty room from the l
- ist. Click Join to enter your breakout room.Troubleshooting Tips: If you d
- on&rsquo\;t see the Breakout Rooms option\, make sure you have the latest 
- version of Teams installed. You can also try leaving and rejoining the mee
- ting to refresh the breakout room options. Breakout rooms only work in the
-  desktop app (Windows/Mac)\, not in the web version. ( it will not work on
-  your phone) 
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CV and Pulmonary Abnormals
 DTSTART;TZID=America/Chicago:20241022T130000
 DTEND;TZID=America/Chicago:20241022T142000
