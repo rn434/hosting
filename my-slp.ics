@@ -135,17 +135,4 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWMyMDFiMz
  0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22O
  id%22%3a%22e948b50a-2e0f-49d5-a7e4-f74c1d4625ad%22%7d)
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leveraging Research to Integrate Food Security into Clinic Care
-DTSTART;TZID=US/Central:20260121T120000
-DTEND;TZID=US/Central:20260121T130000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:Will be sent following registration: https://events.teams.microso
- ft.com/event/17a85bbe-fd35-4122-bb30-16f25dd3c3cc@a83dba53-124d-4d32-88f0-
- b72889a9e926https://events.teams.microsoft.com/event/17a85bbe-fd35-4122-bb
- 30-16f25dd3c3cc@a83dba53-124d-4d32-88f0-b72889a9e926 (https://events.teams
- .microsoft.com/event/17a85bbe-fd35-4122-bb30-16f25dd3c3cc@a83dba53-124d-4d
- 32-88f0-b72889a9e926)
-END:VEVENT
 END:VCALENDAR
