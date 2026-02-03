@@ -334,4 +334,15 @@ LOCATION:Will be sent following registration: https://events.teams.microso
  .microsoft.com/event/17a85bbe-fd35-4122-bb30-16f25dd3c3cc@a83dba53-124d-4d
  32-88f0-b72889a9e926)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Darkness to Light: The Generational Impact a Life of Service 
+ Can Have with Dr. Mark Gold
+DTSTART;TZID=US/Central:20260211T173000
+DTEND;TZID=US/Central:20260211T173000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:Teams link sent following registration: https://forms.gle/Jc8FEWJ
+ 9o28dSGw89https://forms.gle/Jc8FEWJ9o28dSGw89 (https://forms.gle/Jc8FEWJ9o
+ 28dSGw89)
+END:VEVENT
 END:VCALENDAR
