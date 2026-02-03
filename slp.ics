@@ -345,4 +345,18 @@ LOCATION:Teams link sent following registration: https://forms.gle/Jc8FEWJ
  9o28dSGw89https://forms.gle/Jc8FEWJ9o28dSGw89 (https://forms.gle/Jc8FEWJ9o
  28dSGw89)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMIG Kidney Transplants: Who\, Why\, and How
+DTSTART;TZID=US/Central:20260211T180000
+DTEND;TZID=US/Central:20260211T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGU5NTdkOG
+ EtNTA1ZC00NTdkLWE3ZWEtMjEyZTY5YzA1NzI5%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%3a%225e1b2b6a-3e4
+ 0-455a-9ec8-d77a23f7ebe9%22%7d (https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NGU5NTdkOGEtNTA1ZC00NTdkLWE3ZWEtMjEyZTY5YzA1NzI5%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22O
+ id%22%3a%225e1b2b6a-3e40-455a-9ec8-d77a23f7ebe9%22%7d)
+END:VEVENT
 END:VCALENDAR
