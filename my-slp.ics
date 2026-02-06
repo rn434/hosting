@@ -160,4 +160,19 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGU5NTdkOG
  0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22O
  id%22%3a%225e1b2b6a-3e40-455a-9ec8-d77a23f7ebe9%22%7d)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HERB Collective Journal Club: Osteoarthritis & Gardening
+DTSTART;TZID=US/Central:20260211T170000
+DTEND;TZID=US/Central:20260211T180000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:RSVP here: https://forms.gle/BwYoezdoc2g2TL3M7. In person M321/32
+ 3 or Teams https://teams.microsoft.com/meet/27580815780196?p=RHV2MKWYS5oeV
+ CswKzhttps://forms.gle/BwYoezdoc2g2TL3M7. In person M321/323 or Teams http
+ s://teams.microsoft.com/meet/27580815780196?p=RHV2MKWYS5oeVCswKz (https://
+ forms.gle/BwYoezdoc2g2TL3M7.) In person M321/323 or Teams https://teams.mi
+ crosoft.com/meet/27580815780196?p=RHV2MKWYS5oeVCswKzhttps://teams.microsof
+ t.com/meet/27580815780196?p=RHV2MKWYS5oeVCswKz (https://teams.microsoft.co
+ m/meet/27580815780196?p=RHV2MKWYS5oeVCswKz)
+END:VEVENT
 END:VCALENDAR
