@@ -374,4 +374,12 @@ LOCATION:RSVP here: https://forms.gle/BwYoezdoc2g2TL3M7 In person or Teams
  HV2MKWYS5oeVCswKz (https://teams.microsoft.com/meet/27580815780196?p=RHV2M
  KWYS5oeVCswKz)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSIoH International Speaker and Lunch
+DTSTART;TZID=US/Central:20260409T110000
+DTEND;TZID=US/Central:20260409T010000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In person (Temple)
+END:VEVENT
 END:VCALENDAR
