@@ -149,4 +149,12 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGU5NTdkOG
  0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22O
  id%22%3a%225e1b2b6a-3e40-455a-9ec8-d77a23f7ebe9%22%7d)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSIoH International Speaker and Lunch
+DTSTART;TZID=US/Central:20260409T110000
+DTEND;TZID=US/Central:20260409T010000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In person (Temple)
+END:VEVENT
 END:VCALENDAR
