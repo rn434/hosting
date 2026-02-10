@@ -382,4 +382,19 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In person (Temple)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Principles of Medical Ethics in Cancer Care
+DTSTART;TZID=US/Central:20260223T173000
+DTEND;TZID=US/Central:20260223T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:RSVP here: https://forms.gle/cpcq2Q5rdKiXFWNV8 In person or Teams
+ : https://teams.microsoft.com/meet/2931351696665?p=f9EPXSyraGX8vuGm5rhttps
+ ://forms.gle/cpcq2Q5rdKiXFWNV8 In person or Teams: https://teams.microsoft
+ .com/meet/2931351696665?p=f9EPXSyraGX8vuGm5r (https://forms.gle/cpcq2Q5rdK
+ iXFWNV8) In person or Teams: https://teams.microsoft.com/meet/293135169666
+ 5?p=f9EPXSyraGX8vuGm5rhttps://teams.microsoft.com/meet/2931351696665?p=f9E
+ PXSyraGX8vuGm5r (https://teams.microsoft.com/meet/2931351696665?p=f9EPXSyr
+ aGX8vuGm5r)
+END:VEVENT
 END:VCALENDAR
