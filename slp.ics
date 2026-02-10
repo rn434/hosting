@@ -397,4 +397,12 @@ LOCATION:RSVP here: https://forms.gle/cpcq2Q5rdKiXFWNV8 In person or Teams
  PXSyraGX8vuGm5r (https://teams.microsoft.com/meet/2931351696665?p=f9EPXSyr
  aGX8vuGm5r)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GHIG Faculty Speaker "Glocal Health" - Dr. Stephen Spann
+DTSTART;TZID=US/Central:20260217T180000
+DTEND;TZID=US/Central:20260217T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:
+END:VEVENT
 END:VCALENDAR
