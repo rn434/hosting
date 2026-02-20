@@ -165,6 +165,18 @@ LOCATION:RSVP here: https://forms.gle/cpcq2Q5rdKiXFWNV8 In person or Teams
  aGX8vuGm5r)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NAAMA Resident Specialty Panel
+DTSTART;TZID=US/Central:20260302T183000
+DTEND;TZID=US/Central:20260302T193000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:RSVP here: https://forms.gle/aRxmughXRQ6b5Q5q6 Team link for Temp
+ le will be sent following registrationhttps://forms.gle/aRxmughXRQ6b5Q5q6 
+ Team link for Temple will be sent following registration (https://forms.gl
+ e/aRxmughXRQ6b5Q5q6) Team link for Temple will be sent following registrat
+ ion
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CSIoH International Speaker and Lunch
 DTSTART;TZID=US/Central:20260409T110000
 DTEND;TZID=US/Central:20260409T010000
