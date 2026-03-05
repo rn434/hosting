@@ -150,6 +150,41 @@ LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGU5NTdkOG
  id%22%3a%225e1b2b6a-3e40-455a-9ec8-d77a23f7ebe9%22%7d)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NAAMA Resident Specialty Panel
+DTSTART;TZID=US/Central:20260302T183000
+DTEND;TZID=US/Central:20260302T193000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:RSVP here: https://forms.gle/aRxmughXRQ6b5Q5q6 Team link for Temp
+ le will be sent following registrationhttps://forms.gle/aRxmughXRQ6b5Q5q6 
+ Team link for Temple will be sent following registration (https://forms.gl
+ e/aRxmughXRQ6b5Q5q6) Team link for Temple will be sent following registrat
+ ion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Whipple Procedure in Pancreatic Cancer: Clinical Decision-Maki
+ ng and Social Context
+DTSTART;TZID=US/Central:20260305T120000
+DTEND;TZID=US/Central:20260305T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:RSVP here: https://forms.gle/RpNfxmoEqzff31kw5\nhttps://teams.mic
+ rosoft.com/l/meetup-join/19%3ameeting_M2Q0MmMwZDYtMGYyNy00MDgwLTg5MjItMjkw
+ ODEwZjA1ZGZh%40thread.v2/0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88
+ f0-b72889a9e926%22%2c%22Oid%22%3a%22c5db11c6-4bf2-4c23-a293-5291386ddde5%2
+ 2%7dhttps://forms.gle/RpNfxmoEqzff31kw5\nhttps://teams.microsoft.com/l/mee
+ tup-join/19%3ameeting_M2Q0MmMwZDYtMGYyNy00MDgwLTg5MjItMjkwODEwZjA1ZGZh%40t
+ hread.v2/0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%
+ 22%2c%22Oid%22%3a%22c5db11c6-4bf2-4c23-a293-5291386ddde5%22%7d (https://fo
+ rms.gle/RpNfxmoEqzff31kw5)https://teams.microsoft.com/l/meetup-join/19%3am
+ eeting_M2Q0MmMwZDYtMGYyNy00MDgwLTg5MjItMjkwODEwZjA1ZGZh%40thread.v2/0?cont
+ ext=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b72889a9e926%22%2c%22Oid%22%
+ 3a%22c5db11c6-4bf2-4c23-a293-5291386ddde5%22%7d (https://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_M2Q0MmMwZDYtMGYyNy00MDgwLTg5MjItMjkwODEwZjA1
+ ZGZh%40thread.v2/0?context=%7b%22Tid%22%3a%22a83dba53-124d-4d32-88f0-b7288
+ 9a9e926%22%2c%22Oid%22%3a%22c5db11c6-4bf2-4c23-a293-5291386ddde5%22%7d)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CSIoH International Speaker and Lunch
 DTSTART;TZID=US/Central:20260409T110000
 DTEND;TZID=US/Central:20260409T130000
