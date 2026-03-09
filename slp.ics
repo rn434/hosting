@@ -420,6 +420,16 @@ LOCATION:RSVP here: https://forms.gle/aRxmughXRQ6b5Q5q6 Team link for Temp
  ion
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCM PSR: Dr. William Perkison Talk on Family Medicine and Occupati
+ onal and Environmental Medicine
+DTSTART;TZID=US/Central:20260305T163000
+DTEND;TZID=US/Central:20260305T173000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/28855052067442?p=BTmKnqO5VCWjkz1
+ n0O (https://teams.microsoft.com/meet/28855052067442?p=BTmKnqO5VCWjkz1n0O)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Whipple Procedure in Pancreatic Cancer: Clinical Decision-Maki
  ng and Social Context
 DTSTART;TZID=US/Central:20260305T120000
@@ -449,15 +459,5 @@ DTEND;TZID=US/Central:20260409T130000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In person (Temple)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCM PSR: Dr. William Perkison Talk on Family Medicine and Occupati
- onal and Environmental Medicine
-DTSTART;TZID=US/Central:20260305T163000
-DTEND;TZID=US/Central:20260305T173000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:https://teams.microsoft.com/meet/28855052067442?p=BTmKnqO5VCWjkz1
- n0O (https://teams.microsoft.com/meet/28855052067442?p=BTmKnqO5VCWjkz1n0O)
 END:VEVENT
 END:VCALENDAR
