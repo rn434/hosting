@@ -214,17 +214,17 @@ LOCATION:RSVP here: https://forms.gle/RpNfxmoEqzff31kw5\nhttps://teams.mic
  9a9e926%22%2c%22Oid%22%3a%22c5db11c6-4bf2-4c23-a293-5291386ddde5%22%7d)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSIoH International Speaker and Lunch
-DTSTART;TZID=US/Central:20260409T110000
-DTEND;TZID=US/Central:20260409T130000
+SUMMARY:Community Health Physician Panel
+DTSTART;TZID=US/Central:20260331T180000
+DTEND;TZID=US/Central:20260331T200000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In person (Temple)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Health Physician Panel
-DTSTART;TZID=US/Central:20260331T180000
-DTEND;TZID=US/Central:20260331T200000
+SUMMARY:CSIoH International Speaker and Lunch
+DTSTART;TZID=US/Central:20260409T110000
+DTEND;TZID=US/Central:20260409T130000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:In person (Temple)
