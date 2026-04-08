@@ -528,4 +528,15 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
 LOCATION:https://teams.microsoft.com/meet/24217876395921?p=1tw2ff7UBE8G1X3
  hIP (https://teams.microsoft.com/meet/24217876395921?p=1tw2ff7UBE8G1X3hIP)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Ethical Approach to Global Health
+DTSTART;TZID=US/Central:20260429T173000
+DTEND;TZID=US/Central:20260429T183000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In person (Temple)\n\nTeams: https://teams.microsoft.com/meet/295
+ 82609267244?p=B3Mm1aTZUVYYweENgThttps://teams.microsoft.com/meet/295826092
+ 67244?p=B3Mm1aTZUVYYweENgT (https://teams.microsoft.com/meet/2958260926724
+ 4?p=B3Mm1aTZUVYYweENgT)
+END:VEVENT
 END:VCALENDAR
