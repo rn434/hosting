@@ -218,6 +218,17 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
 LOCATION:In person - rsvp here (https://forms.gle/fK63MWtjdQBVmSfH7)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:(Virtual) Clinical Ethics In Context: Caring for Patients Amid Shi
+ fting Guidelines and Structural Barriers (Medical Ethics Student Organizat
+ ion)
+DTSTART;TZID=US/Central:20260512T120000
+DTEND;TZID=US/Central:20260512T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:Teams: register at https://forms.gle/GMM4HRD83xUp9VuK8 (https://f
+ orms.gle/GMM4HRD83xUp9VuK8)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IHI Root Cause Analysis Workshop
 DTSTART;TZID=US/Central:20260526T173000
 DTEND;TZID=US/Central:20260526T183000
