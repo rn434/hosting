@@ -526,6 +526,14 @@ LOCATION:Teams - register: https://events.teams.microsoft.com/event/f50272
  83dba53-124d-4d32-88f0-b72889a9e926)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PHIG Cardiovascular Risk Factor Counseling
+DTSTART;TZID=US/Central:20260506T180000
+DTEND;TZID=US/Central:20260506T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MSFC: Pregnancy & Prejudice
 DTSTART;TZID=US/Central:20260511T180000
 DTEND;TZID=US/Central:20260511T190000
