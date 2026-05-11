@@ -542,6 +542,15 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
 LOCATION:In person - rsvp here (https://forms.gle/fK63MWtjdQBVmSfH7)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Working in Low-Resource Environments (Virtual)
+DTSTART;TZID=US/Central:20260511T170000
+DTEND;TZID=US/Central:20260511T180000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:RSVP: https://forms.gle/jP61VT8pAY1HAD5y6 (https://forms.gle/jP61
+ VT8pAY1HAD5y6)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:(Virtual) Clinical Ethics In Context: Caring for Patients Amid Shi
  fting Guidelines and Structural Barriers (Medical Ethics Student Organizat
  ion)
@@ -570,14 +579,5 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
  lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
 LOCATION:RSVP + TEAMS LINK: https://forms.gle/qqEgRXpJjBtZV7zd7 (https://f
  orms.gle/qqEgRXpJjBtZV7zd7)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Working in Low-Resource Environments (Virtual)
-DTSTART;TZID=US/Central:20260511T170000
-DTEND;TZID=US/Central:20260511T180000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
- lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
-LOCATION:RSVP: https://forms.gle/jP61VT8pAY1HAD5y6 (https://forms.gle/jP61
- VT8pAY1HAD5y6)
 END:VEVENT
 END:VCALENDAR
