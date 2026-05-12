@@ -580,4 +580,13 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
 LOCATION:RSVP + TEAMS LINK: https://forms.gle/qqEgRXpJjBtZV7zd7 (https://f
  orms.gle/qqEgRXpJjBtZV7zd7)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMIG: The Waiting Room Documentary Screening
+DTSTART;TZID=US/Central:20260601T170000
+DTEND;TZID=US/Central:20260601T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1nXCVAvH5PfOSzXBb
+ lHPA-Xhj7h50nKa-USrJG9_W8_Y/edit?gid=0#gid=0
+LOCATION:In person RSVP: https://forms.gle/8X3akjFm8HZsq2tR7 (https://form
+ s.gle/8X3akjFm8HZsq2tR7)
+END:VEVENT
 END:VCALENDAR
