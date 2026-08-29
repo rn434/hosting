@@ -7,4 +7,12 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
  kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
 LOCATION:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siempre Unidos - Medical Spanish Workshop
+DTSTART;TZID=US/Central:20260831T173000
+DTEND;TZID=US/Central:20260831T183000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:
+END:VEVENT
 END:VCALENDAR
