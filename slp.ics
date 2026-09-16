@@ -1,16 +1,16 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:IMIG: Caring for Older Adults Panel
-DTSTART;TZID=US/Central:20260915T173000
-DTEND;TZID=US/Central:20260915T183000
+SUMMARY:Street Medicine Student Coalition - Speaker Event with Dr. Jaquez
+DTSTART;TZID=US/Central:20260914T173000
+DTEND;TZID=US/Central:20260914T183000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
  kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Street Medicine Student Coalition - Speaker Event with Dr. Jaquez
-DTSTART;TZID=US/Central:20260914T173000
-DTEND;TZID=US/Central:20260914T183000
+SUMMARY:IMIG: Caring for Older Adults Panel
+DTSTART;TZID=US/Central:20260915T173000
+DTEND;TZID=US/Central:20260915T183000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
  kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
 LOCATION:
