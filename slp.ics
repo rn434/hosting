@@ -1,11 +1,13 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:DIG: Spanish in Dermatology
-DTSTART;TZID=US/Central:20260930T180000
-DTEND;TZID=US/Central:20260930T190000
+SUMMARY:AIMS: Journal Club with Dr. Abbas Rana: AI in Surgery
+DTSTART;TZID=US/Central:20261026T170000
+DTEND;TZID=US/Central:20261026T180000
 DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
  kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
-LOCATION:
+LOCATION:https://teams.microsoft.com/meet/2456728255490428?p=n09pZMvA7P6TV
+ mYY5D (https://teams.microsoft.com/meet/2456728255490428?p=n09pZMvA7P6TVmY
+ Y5D)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bedlam Documentary
