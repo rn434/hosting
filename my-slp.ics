@@ -17,4 +17,19 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
  kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
 LOCATION:MEB 142
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MWM Education Talk: Purple Crying in Newborns
+DTSTART;TZID=US/Central:20261021T120000
+DTEND;TZID=US/Central:20261021T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23
+ %2Fmeet%2F214241703697467%3Fp%3DT0PMnVgSXd0j7v6QAk%26anon%3Dtrue&type=meet
+ &deeplinkId=c4cf058a-4e91-4fde-8f0b-9ed9f007e2e2&directDl=true&msLaunch=tr
+ ue&enableMobilePage=true&suppressPrompt=true (https://teams.microsoft.com/
+ dl/launcher/launcher.html?url=%2F_%23%2Fmeet%2F214241703697467%3Fp%3DT0PMn
+ VgSXd0j7v6QAk%26anon%3Dtrue&type=meet&deeplinkId=c4cf058a-4e91-4fde-8f0b-9
+ ed9f007e2e2&directDl=true&msLaunch=true&enableMobilePage=true&suppressProm
+ pt=true)
+END:VEVENT
 END:VCALENDAR
