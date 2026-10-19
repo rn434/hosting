@@ -10,6 +10,16 @@ LOCATION:https://teams.microsoft.com/meet/2456728255490428?p=n09pZMvA7P6TV
  Y5D)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IMIG Primary Care Panel
+DTSTART;TZID=US/Central:20261020T180000
+DTEND;TZID=US/Central:20261020T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/2145286398550330?p=vCHrEqis56dSz
+ zVnII (https://teams.microsoft.com/meet/2145286398550330?p=vCHrEqis56dSzzV
+ nII)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bedlam Documentary
 DTSTART;TZID=US/Central:20261020T180000
 DTEND;TZID=US/Central:20261020T200000
