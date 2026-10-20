@@ -1,15 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:AIMS: Journal Club with Dr. Abbas Rana: AI in Surgery
-DTSTART;TZID=US/Central:20261026T170000
-DTEND;TZID=US/Central:20261026T180000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
- kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
-LOCATION:https://teams.microsoft.com/meet/2456728255490428?p=n09pZMvA7P6TV
- mYY5D (https://teams.microsoft.com/meet/2456728255490428?p=n09pZMvA7P6TVmY
- Y5D)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IMIG Primary Care Panel
 DTSTART;TZID=US/Central:20261020T180000
 DTEND;TZID=US/Central:20261020T190000
@@ -41,5 +31,30 @@ LOCATION:https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23
  VgSXd0j7v6QAk%26anon%3Dtrue&type=meet&deeplinkId=c4cf058a-4e91-4fde-8f0b-9
  ed9f007e2e2&directDl=true&msLaunch=true&enableMobilePage=true&suppressProm
  pt=true)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIMS: Journal Club with Dr. Abbas Rana: AI in Surgery
+DTSTART;TZID=US/Central:20261026T170000
+DTEND;TZID=US/Central:20261026T180000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/2456728255490428?p=n09pZMvA7P6TV
+ mYY5D (https://teams.microsoft.com/meet/2456728255490428?p=n09pZMvA7P6TVmY
+ Y5D)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMP: Dr. Alexander Pantelyat\, discuss music and medicine
+DTSTART;TZID=US/Central:20261215T120000
+DTEND;TZID=US/Central:20261215T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/285161184759410?p=6bBJdmjSFJ9kV8
+ 48Ua (https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?url=ht
+ tps%3A%2F%2Fteams.microsoft.com%2Fmeet%2F285161184759410%3Fp%3D6bBJdmjSFJ9
+ kV848Ua&data=05%7C02%7CJonah.Pesikoff%40bcm.edu%7Cd548339e70b64b68c24508df
+ 2e3fca5b%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639280523646752556%7
+ CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJ
+ XaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5v3RTbXycnRmp
+ AheDB5SI90%2FmbNsdHIouOwk6UcMU3w%3D&reserved=0)
 END:VEVENT
 END:VCALENDAR
