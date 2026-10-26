@@ -62,6 +62,16 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
 LOCATION:Mayborn auditorium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PHIG Virtual Journal Club: What is the key to culturally competent
+  care: Reducing bias or cultural tailoring?
+DTSTART;TZID=US/Central:20261108T180000
+DTEND;TZID=US/Central:20261108T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/28818787837459?p=Oj042hev4Rp4WbV
+ tBH (https://teams.microsoft.com/meet/28818787837459?p=Oj042hev4Rp4WbVtBH)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AMP: Dr. Alexander Pantelyat\, discuss music and medicine
 DTSTART;TZID=US/Central:20261215T120000
 DTEND;TZID=US/Central:20261215T130000
