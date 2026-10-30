@@ -72,6 +72,15 @@ LOCATION:https://teams.microsoft.com/meet/28818787837459?p=Oj042hev4Rp4WbV
  tBH (https://teams.microsoft.com/meet/28818787837459?p=Oj042hev4Rp4WbVtBH)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"Agitation & Aggression": Child and Adolescent Behavioral Health I
+ nitiative (PsychMinded)
+DTSTART;TZID=US/Central:20261202T173000
+DTEND;TZID=US/Central:20261202T183000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AMP: Dr. Alexander Pantelyat\, discuss music and medicine
 DTSTART;TZID=US/Central:20261215T120000
 DTEND;TZID=US/Central:20261215T130000
