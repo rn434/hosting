@@ -53,6 +53,17 @@ LOCATION:https://teams.microsoft.com/meet/2456728255490428?p=n09pZMvA7P6TV
  Y5D)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HPAIV x PsychMinded: Human Trafficking in Healthcare with Dr. Gord
+ on
+DTSTART;TZID=US/Central:20261105T180000
+DTEND;TZID=US/Central:20261105T190000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/2780806154934619?p=6n1bq6MIelyNx
+ m3ygl (https://teams.microsoft.com/meet/2780806154934619?p=6n1bq6MIelyNxm3
+ ygl)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GHIG: From Neglected Diseases to Global Health Security: Thinking 
  Globally\, Acting Locally in Service of Children and Communities
 DTSTART;TZID=US/Central:20261106T120000
