@@ -48,4 +48,14 @@ LOCATION:https://teams.microsoft.com/meet/2305189505403929?p=5gC5ARC6d7dGK
  E1Akn (https://teams.microsoft.com/meet/2305189505403929?p=5gC5ARC6d7dGKE1
  Akn)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridging the Language Gap: Multilingual and Multi-Specialty Perspe
+ ctives on Interpreter Use in Patient Care
+DTSTART;TZID=US/Central:20261117T170000
+DTEND;TZID=US/Central:20261117T183000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/211424303054739?p=FgXjpAWPQoVOSE
+ MsE6
+END:VEVENT
 END:VCALENDAR
