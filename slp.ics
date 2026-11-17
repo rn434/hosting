@@ -75,6 +75,14 @@ LOCATION:https://bswhealth.webex.com/bswhealth/j.php?MTID=md9f989ee0e689cc
  9ee0e689ccad0a720221de82b28)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MWM Education Talk: Car Seat and Infanty Safety`
+DTSTART;TZID=US/Central:20261107T120000
+DTEND;TZID=US/Central:20261107T130000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PHIG Virtual Journal Club: What is the key to culturally competent
   care: Reducing bias or cultural tailoring?
 DTSTART;TZID=US/Central:20261109T180000
@@ -83,6 +91,26 @@ DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
  kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
 LOCATION:https://teams.microsoft.com/meet/28818787837459?p=Oj042hev4Rp4WbV
  tBH (https://teams.microsoft.com/meet/28818787837459?p=Oj042hev4Rp4WbVtBH)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning More About Medicaid and CHIP Eligibility
+DTSTART;TZID=US/Central:20261117T183000
+DTEND;TZID=US/Central:20261117T193000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/2305189505403929?p=5gC5ARC6d7dGK
+ E1Akn (https://teams.microsoft.com/meet/2305189505403929?p=5gC5ARC6d7dGKE1
+ Akn)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridging the Language Gap: Multilingual and Multi-Specialty Perspe
+ ctives on Interpreter Use in Patient Care
+DTSTART;TZID=US/Central:20261117T170000
+DTEND;TZID=US/Central:20261117T183000
+DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
+ kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
+LOCATION:https://teams.microsoft.com/meet/211424303054739?p=FgXjpAWPQoVOSE
+ MsE6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Agitation & Aggression": Child and Adolescent Behavioral Health I
@@ -107,33 +135,5 @@ LOCATION:https://teams.microsoft.com/meet/285161184759410?p=6bBJdmjSFJ9kV8
  CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJ
  XaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5v3RTbXycnRmp
  AheDB5SI90%2FmbNsdHIouOwk6UcMU3w%3D&reserved=0)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MWM Education Talk: Car Seat and Infanty Safety`
-DTSTART;TZID=US/Central:20261107T120000
-DTEND;TZID=US/Central:20261107T130000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
- kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Learning More About Medicaid and CHIP Eligibility
-DTSTART;TZID=US/Central:20261117T183000
-DTEND;TZID=US/Central:20261117T193000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
- kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
-LOCATION:https://teams.microsoft.com/meet/2305189505403929?p=5gC5ARC6d7dGK
- E1Akn (https://teams.microsoft.com/meet/2305189505403929?p=5gC5ARC6d7dGKE1
- Akn)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bridging the Language Gap: Multilingual and Multi-Specialty Perspe
- ctives on Interpreter Use in Patient Care
-DTSTART;TZID=US/Central:20261117T170000
-DTEND;TZID=US/Central:20261117T183000
-DESCRIPTION:Link: https://docs.google.com/spreadsheets/d/1EpaJK0M8FCvl1Dr4
- kb6Dpnn71Zz7lsWWDL6YPyqYOwc/edit?gid=0#gid=0
-LOCATION:https://teams.microsoft.com/meet/211424303054739?p=FgXjpAWPQoVOSE
- MsE6
 END:VEVENT
 END:VCALENDAR
